@@ -1,0 +1,62 @@
+@font-face{font-family:"InterV";src:url(fuentes/Inter.ttf) format("truetype");font-weight:100 900;font-display:swap}
+*{box-sizing:border-box}
+:root{--bg:#F4F4F5;--hi:#FFF2B2;--ac:#FFCC00;--ink:#111}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:InterV,Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased;padding:88px 28px 110px}
+.tarjeta{background:#fff;border-radius:22px;box-shadow:0 1px 2px rgba(0,0,0,.04),0 12px 32px rgba(0,0,0,.06);padding:28px}
+.kick{font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#71717a}
+.barra{position:fixed;top:0;left:0;right:0;z-index:5;display:flex;align-items:center;gap:18px;padding:14px 28px;background:rgba(244,244,245,.88);backdrop-filter:blur(10px)}
+.atras{width:40px;height:40px;border-radius:50%;background:#fff;display:grid;place-items:center;text-decoration:none;color:var(--ink);font-weight:800;box-shadow:0 4px 12px rgba(0,0,0,.06)}
+.tt{flex:1;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.tt span{color:#71717a}
+.prog{display:flex;align-items:center;gap:12px;font-weight:800;font-size:14px}
+.pista{width:180px;height:6px;border-radius:9px;background:#e4e4e7;overflow:hidden}.pista i{display:block;height:100%;width:0;background:var(--ink);transition:width .5s cubic-bezier(.2,.8,.2,1)}
+.portada{max-width:1240px;margin:0 auto 22px;display:flex;gap:26px;align-items:center}
+.portada img{width:92px;border-radius:12px}
+h1{font-size:clamp(38px,6vw,84px);line-height:.95;letter-spacing:-.045em;font-weight:900;margin:8px 0 0}
+#pasos{max-width:1240px;margin:0 auto;position:relative}
+.paso{display:none;grid-template-columns:2fr 1fr;gap:22px}
+.paso.activo{display:grid;animation:entra .5s cubic-bezier(.2,.8,.2,1)}
+.paso.atras-anim{animation:entraI .5s cubic-bezier(.2,.8,.2,1)}
+@keyframes entra{from{opacity:0;transform:translateX(40px)}to{opacity:1;transform:none}}
+@keyframes entraI{from{opacity:0;transform:translateX(-40px)}to{opacity:1;transform:none}}
+.izq{position:relative;min-height:520px;display:flex;flex-direction:column}
+.num{font-size:clamp(120px,17vw,240px);font-weight:900;letter-spacing:-.07em;line-height:.8}
+.izq .kick{margin-top:6px}
+.iso{width:100%;flex:1;max-height:440px;min-height:260px;margin-top:10px}
+.lupa{position:absolute;right:26px;top:26px;width:150px;text-align:center}
+.lupa svg{width:150px;height:150px;filter:drop-shadow(0 10px 20px rgba(0,0,0,.08))}
+.lupa span{display:inline-block;margin-top:6px;font-size:12px;font-weight:800;background:#fff;border-radius:99px;padding:5px 12px;box-shadow:0 4px 12px rgba(0,0,0,.06)}
+.lupa.fav svg circle:last-child{stroke:var(--ac);stroke-width:7}.lupa.fav span{background:var(--ac)}
+.der{display:flex;flex-direction:column;gap:18px}
+h2{font-size:clamp(30px,3.2vw,46px);line-height:1;letter-spacing:-.04em;font-weight:900;margin:10px 0}
+.idea{font-size:17px;line-height:1.45;margin:0}.idea{background:linear-gradient(transparent 55%,var(--hi) 55%);display:inline}
+h3{font-size:14px;letter-spacing:.12em;text-transform:uppercase;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+.cuenta{background:var(--ink);color:#fff;border-radius:99px;padding:2px 9px;font-size:12px;letter-spacing:0}
+.nec{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px}
+.nec li{border-top:1px solid #e4e4e7;padding-top:14px;font-size:15.5px;line-height:1.5}
+.nec li:first-child{border-top:0;padding-top:0}
+.nec q{display:block;quotes:none}.nec q+q{margin-top:6px}
+.pnum{float:right;margin:0 0 4px 10px;font-size:12px;font-weight:800;border:1.5px solid var(--ink);border-radius:99px;padding:2px 9px}
+.nec li.fav{background:var(--hi);border-radius:16px;padding:14px;border:0}.nec li.fav .pnum{background:var(--ac);border-color:var(--ac)}
+.favtag{display:inline-block;margin-top:8px;font-size:12px;font-weight:800}
+.nota{display:block;margin-top:8px;font-style:italic}.nota b{font-style:normal;margin-right:6px;background:var(--hi);padding:1px 6px;border-radius:6px}
+.pill{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:99px;padding:13px 20px;font:inherit;font-weight:800;font-size:15px;cursor:pointer;text-decoration:none;color:var(--ink);background:#fff;box-shadow:0 4px 12px rgba(0,0,0,.06);transition:transform .15s}
+.pill:hover{transform:translateY(-2px)}.negra{background:var(--ink);color:#fff}
+.siguiente{align-self:flex-start}
+.desc{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.ancho{grid-column:1/-1}.sub{margin-top:20px}
+.bento{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.obra{display:flex;flex-direction:column;gap:6px;text-decoration:none;color:var(--ink);padding:18px;transition:transform .2s}
+.obra:hover{transform:translateY(-4px)}.obra img{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:12px}
+.obra.grande{grid-column:span 2;grid-row:span 2}.obra small{color:#71717a}.obra .est{align-self:flex-start;background:var(--hi);border-radius:99px;padding:3px 10px;font-size:12px;font-weight:700}
+.flot{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);z-index:6;display:flex;align-items:center;gap:6px;background:var(--ink);color:#fff;border-radius:99px;padding:6px;box-shadow:0 14px 30px rgba(0,0,0,.25)}
+.flot button{width:46px;height:46px;border-radius:50%;border:0;background:#fff;color:var(--ink);font-size:20px;font-weight:900;cursor:pointer}
+.flot button:disabled{opacity:.3;cursor:default}.flot span{font-weight:800;font-size:14px;padding:0 10px;min-width:54px;text-align:center}
+.check{position:fixed;top:50%;left:50%;width:120px;height:120px;margin:-60px;border-radius:50%;background:var(--ac);display:grid;place-items:center;z-index:9;animation:chk .9s ease forwards;pointer-events:none}
+.check svg{width:60px}
+@keyframes chk{0%{transform:scale(.3);opacity:0}25%{transform:scale(1.05);opacity:1}70%{opacity:1}100%{transform:scale(1);opacity:0}}
+#confeti i{position:fixed;top:-20px;width:8px;height:14px;z-index:8;animation:cae linear forwards;pointer-events:none}
+@keyframes cae{to{transform:translateY(110vh) rotate(540deg)}}
+@media(max-width:820px){body{padding:76px 14px 100px}.barra{padding:10px 14px}.tt{display:none}.pista{width:110px}
+.paso.activo{grid-template-columns:1fr}.izq{min-height:auto}.num{font-size:110px}.lupa{width:96px;right:16px;top:16px}.lupa svg{width:96px;height:96px}
+.portada{gap:16px}.portada img{width:64px}.tarjeta{padding:20px;border-radius:18px}.bento{grid-template-columns:repeat(2,1fr)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}

@@ -24,7 +24,7 @@ def nodo(label, hijos, cls="", abierto=False, extra=""):
 def build():
     if D.exists(): shutil.rmtree(D)
     D.mkdir(); (D/"estilo.css").write_text(CSS, encoding="utf-8"); (D/"mapa.js").write_text(JS, encoding="utf-8")
-    libros, esperadas, esperadas_notas = [], {}, {}
+    libros, esperadas, esperadas_notas, esperadas_bygga = [], {}, {}, {}
     for d in sorted(p for p in L.iterdir() if (p/"libro.json").exists()):
         b = json.loads((d/"libro.json").read_text(encoding="utf-8")); b["id"] = d.name
         shutil.copytree(d, D/"libros"/d.name); libros.append(b)
@@ -69,6 +69,9 @@ def build():
         mapa = f'<div class="controles"><button data-accion="abrir">Abrir todo</button><button data-accion="cerrar">Cerrar todo</button></div><ul class="mapa"><li class="abierto raiz"><button class="nodo centro" aria-expanded="true">{centro}</button><ul>{"".join(ramas)}</ul></li></ul>'
         body = hero + desc + '<div class="pestanas"><button class="activa" data-vista="mapa">🧠 Mapa</button><button data-vista="tarjetas">🃏 Tarjetas</button></div>' + f'<div class="vista" id="v-mapa">{hilo_html if s else ""}{mapa}</div><div class="vista oculto" id="v-tarjetas">{tarjetas}</div>'
         (D/"libros"/d.name/"index.html").write_text(page(b["titulo"], body, 2), encoding="utf-8")
+        if s and (d/"bygga.json").exists():  # variante opcional «manual de instrucciones»
+            sys.path.insert(0, str(R/"plantilla")); import bygga
+            bygga.generar(d, b, cs, ns_, D/"libros"/d.name/"bygga", R); esperadas_bygga[d.name] = cs
     idx = '<h1 class="tit">Mis libros</h1><p class="lead">Fichas y mapas de subrayados de Miguel</p><div class="estante">' + "".join(f'<a class="libro" href="libros/{b["id"]}/index.html"><img src="libros/{b["id"]}/{E(b["portada"])}" alt=""><b>{E(b["titulo"])}</b><small>{E(b["autor"])}</small>{"<span class=chip>Subrayados</span>" if b.get("subrayados") else ""}</a>' for b in libros) + '</div>'
     (D/"index.html").write_text(page("Mis libros", idx, 0), encoding="utf-8"); (D/".nojekyll").write_text("")
     # Verificación de citas literales
@@ -84,6 +87,10 @@ def build():
         if set(cs) - usadas: print(f"AVISO {lid}: citas sin rama: {sorted(set(cs)-usadas)}")
         nn = len(esperadas_notas.get(lid, {}))
         print(f"{lid}: {sum(q in txt for q in cs.values())}/{len(cs)} citas literales" + (f", {sum(q in txt for q in esperadas_notas[lid].values())}/{nn} notas literales" if nn else "") + (" OK" if fallos == f0 else ""))
+    for lid, cs in esperadas_bygga.items():
+        txt = html.unescape((D/"libros"/lid/"bygga"/"index.html").read_text(encoding="utf-8"))
+        ok = sum(q in txt for q in cs.values()); fallos += len(cs) - ok
+        print(f"{lid}/bygga: {ok}/{len(cs)} citas literales" + (" OK" if ok == len(cs) else ""))
     print(f"{len(libros)} libros generados en {D}")
     if fallos: sys.exit(1)
 build()

@@ -1,0 +1,12 @@
+(()=>{const P=[...document.querySelectorAll('.paso')],N=P.length;let i=0;const hechos=new Set();
+const ir=(n,dir=1)=>{if(n<0||n>=N)return;P[i].classList.remove('activo','atras-anim');i=n;P[i].classList.add('activo');if(dir<0)P[i].classList.add('atras-anim');
+document.getElementById('pasoN').textContent=`Paso ${i+1} de ${N}`;document.getElementById('pn').textContent=`${i+1}/${N}`;
+document.getElementById('pbar').style.width=(i/(N-1)*100)+'%';document.getElementById('ant').disabled=i==0;document.getElementById('sig').disabled=i==N-1;
+history.replaceState(null,'','#paso-'+(i+1));window.scrollTo({top:0,behavior:'smooth'});if(i==N-1)confeti()};
+const check=()=>{const c=document.createElement('div');c.className='check';c.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';document.body.appendChild(c);setTimeout(()=>c.remove(),950)};
+const avanza=()=>{if(i<N-1){if(!hechos.has(i)){hechos.add(i);check()}ir(i+1)}};
+const confeti=()=>{const z=document.getElementById('confeti');if(z.childElementCount)return;for(let k=0;k<70;k++){const e=document.createElement('i');e.style.left=Math.random()*100+'vw';e.style.background=k%3?'#FFCC00':'#111';e.style.animationDuration=(1.6+Math.random()*1.8)+'s';e.style.animationDelay=Math.random()*.6+'s';if(k%4==0){e.style.width='3px'}z.appendChild(e)}setTimeout(()=>z.innerHTML='',4200)};
+document.getElementById('sig').onclick=avanza;document.getElementById('ant').onclick=()=>ir(i-1,-1);
+document.querySelectorAll('.siguiente').forEach(b=>b.onclick=avanza);
+document.addEventListener('keydown',e=>{if(e.key==='ArrowRight')avanza();if(e.key==='ArrowLeft')ir(i-1,-1)});
+const m=location.hash.match(/paso-(\d+)/);ir(m?Math.min(N,+m[1])-1:0)})();
