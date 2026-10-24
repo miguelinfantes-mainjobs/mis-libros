@@ -10,6 +10,8 @@ d = DST/slug(s["title"]); d.mkdir(parents=True, exist_ok=True)
 ext = Path(s["cover"]).suffix; shutil.copy(SRC/s["cover"], d/("portada"+ext))
 shutil.copy(SRC/f"subrayados-{n}-literal.txt", d/"citas.txt")
 shutil.copy(SRC/f"subrayados-{n}.png", d/"subrayados.png"); shutil.copy(SRC/f"subrayados-{n}.pdf", d/"subrayados.pdf")
+notas = SRC/f"subrayados-{n}-notas.txt"
+if notas.exists(): shutil.copy(notas, d/"notas.txt")
 obras = []
 if s.get("works"):
     (d/"obras").mkdir(exist_ok=True)
@@ -22,6 +24,6 @@ book = {"titulo": s["title"], "subtitulo": s["meta"], "autor": s["author"], "eti
  "portada": "portada"+ext, "datos": [], "secciones": [{"titulo": "Lo que subrayas", "puntos": [s["you_text"]]}],
  "descargas": {"subrayados_png": "subrayados.png", "subrayados_pdf": "subrayados.pdf"},
  "subrayados": {"archivo_citas": "citas.txt", "nucleo": s["center"], "nucleo_sub": s["center_sub"], "hilo": s["flow"],
-   "favorita": int(s["favorite"]), "ramas": s["branches"], "pie": s["foot"]},
+   "favorita": int(s["favorite"]), **({"archivo_notas": "notas.txt"} if notas.exists() else {}), "ramas": s["branches"], "pie": s["foot"]},
  **({"obras": {"titulo": s["works"]["title"], "nota": s["works"].get("note",""), "items": obras}} if obras else {})}
 (d/"libro.json").write_text(json.dumps(book, ensure_ascii=False, indent=1), encoding="utf-8"); print("ok", d.name)

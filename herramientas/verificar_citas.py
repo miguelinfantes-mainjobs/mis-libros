@@ -12,4 +12,9 @@ with sync_playwright() as p:
         pg.screenshot(path=f"/workspace/visual/libros-{lid}-mapa.png",full_page=True)
         pg.click("[data-vista=tarjetas]"); t=sum(q in pg.locator("#v-tarjetas").inner_text() for q in qs)
         pg.screenshot(path=f"/workspace/visual/libros-{lid}-tarjetas.png",full_page=True)
+        import os
+        N=[re.match(r"^(\d+)\. (.*)$",l)[2] for l in (open(f"libros/{lid}/notas.txt",encoding="utf-8").read().splitlines() if os.path.exists(f"libros/{lid}/notas.txt") else []) if re.match(r"^(\d+)\. ",l)]
+        if N:
+            pg.click("[data-vista=mapa]"); m=pg.locator("#v-mapa").inner_text(); tt=pg.locator("#v-tarjetas").inner_text()
+            print(f"{lid}: notas mapa {sum(x in m for x in N)}/{len(N)} · notas tarjetas {sum(x in tt for x in N)}/{len(N)}")
         print(f"{lid}: mapa {a}/{len(qs)} · tarjetas {t}/{len(qs)}")

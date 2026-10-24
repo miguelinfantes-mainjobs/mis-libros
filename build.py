@@ -24,7 +24,7 @@ def nodo(label, hijos, cls="", abierto=False, extra=""):
 def build():
     if D.exists(): shutil.rmtree(D)
     D.mkdir(); (D/"estilo.css").write_text(CSS, encoding="utf-8"); (D/"mapa.js").write_text(JS, encoding="utf-8")
-    libros, esperadas = [], {}
+    libros, esperadas, esperadas_notas = [], {}, {}
     for d in sorted(p for p in L.iterdir() if (p/"libro.json").exists()):
         b = json.loads((d/"libro.json").read_text(encoding="utf-8")); b["id"] = d.name
         shutil.copytree(d, D/"libros"/d.name); libros.append(b)
@@ -36,14 +36,19 @@ def build():
         if s:
             cs = citas(d/s["archivo_citas"]); esperadas[d.name] = cs
             hilo = [h[0] for h in s["hilo"]]
+            ns_ = citas(d/s["archivo_notas"]) if s.get("archivo_notas") else {}; esperadas_notas[d.name] = ns_
+            L_ = lambda q: q if isinstance(q, list) else [q]
+            fv = lambda q: s["favorita"] in L_(q)
+            cuerpo = lambda q: " ".join(f'<span class="frag">{E(cs[k])}</span>' for k in L_(q)) + "".join(f'<span class="tunota"><b>✎ Tu nota</b>{E(ns_[k])}</span>' for k in L_(q) if k in ns_)
+            numq = lambda q: "+".join(map(str, L_(q)))
             for r in s["ramas"]:
-                qs = [nodo(f'<span class="cita{" fav" if q==s["favorita"] else ""}">{"★ " if q==s["favorita"] else ""}{E(cs[q])}</span>', []) for q in r["quotes"]]
+                qs = [nodo(f'<span class="cita{" fav" if fv(q) else ""}">{"★ " if fv(q) else ""}{cuerpo(q)}</span>', []) for q in r["quotes"]]
                 tag = f'<small>{E(r["tag"])}</small>'
                 ramas.append(nodo(f'{E(r["title"])} {tag}', qs, "rama"+(" nucleo" if r["flow"] is None else "")))
             centro = f'{E(s["nucleo"])}'
             hilo_html = '<div class="hilo">' + '<span class="fl">→</span>'.join(f'<span class="paso"><b>{i+1}</b>{E(h[0])}<small>{E(h[1])}</small></span>' for i,h in enumerate(s["hilo"])) + '</div>'
             fav = f'<div class="favq"><div class="lab">★ Tu favorita</div><q>{E(cs[s["favorita"]])}</q></div>'
-            tarjetas = hilo_html + fav + "".join(f'<section class="sec"><h2>{E(r["title"])} <small>{E(r["tag"])}</small></h2><div class="cols">' + "".join(f'<blockquote class="q{" fav" if q==s["favorita"] else ""}"><span class="num">{q}</span>{E(cs[q])}</blockquote>' for q in r["quotes"]) + '</div></section>' for r in s["ramas"])
+            tarjetas = hilo_html + fav + "".join(f'<section class="sec"><h2>{E(r["title"])} <small>{E(r["tag"])}</small></h2><div class="cols">' + "".join(f'<blockquote class="q{" fav" if fv(q) else ""}"><span class="num">{numq(q)}</span>{cuerpo(q)}</blockquote>' for q in r["quotes"]) + '</div></section>' for r in s["ramas"])
         else:
             centro = E(b["titulo"]); hilo_html = ""
             tarjetas = '<div class="grid">' + "".join(f'<div class="stat"><b>{E(x["valor"])}</b><small>{E(x["texto"])}</small></div>' for x in b["datos"]) + '</div>' + "".join(f'<section class="card"><h3>{E(c["titulo"])}{f" · {E(c.get("nota"))}" if c.get("nota") else ""}</h3>' + "".join(f"<p>{E(p)}</p>" for p in c["puntos"]) + '</section>' for c in b["secciones"])
@@ -72,7 +77,13 @@ def build():
         txt = html.unescape((D/"libros"/lid/"index.html").read_text(encoding="utf-8"))
         for n, q in cs.items():
             if q not in txt: fallos += 1; print(f"FALTA cita {n} en {lid}")
-        print(f"{lid}: {len(cs)-fallos}/{len(cs)} citas literales OK")
+        f0 = fallos
+        for n, q in esperadas_notas.get(lid, {}).items():
+            if q not in txt: fallos += 1; print(f"FALTA nota {n} en {lid}")
+        usadas = {k for r in json.loads((L/lid/"libro.json").read_text(encoding="utf-8"))["subrayados"]["ramas"] for q in r["quotes"] for k in (q if isinstance(q, list) else [q])}
+        if set(cs) - usadas: print(f"AVISO {lid}: citas sin rama: {sorted(set(cs)-usadas)}")
+        nn = len(esperadas_notas.get(lid, {}))
+        print(f"{lid}: {sum(q in txt for q in cs.values())}/{len(cs)} citas literales" + (f", {sum(q in txt for q in esperadas_notas[lid].values())}/{nn} notas literales" if nn else "") + (" OK" if fallos == f0 else ""))
     print(f"{len(libros)} libros generados en {D}")
     if fallos: sys.exit(1)
 build()
