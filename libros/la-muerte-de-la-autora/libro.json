@@ -1,0 +1,260 @@
+{
+ "titulo": "La muerte de la autora",
+ "subtitulo": "Maeva, 2026 · trad. Milo Jordi Krmpotic · tus 17 subrayados, literales y agrupados por temas",
+ "autor": "Nnedi Okorafor",
+ "etiquetas": [
+  "Creatividad",
+  "IA y autoría",
+  "Futuro del trabajo",
+  "Propósito"
+ ],
+ "portada": "portada.jpg",
+ "datos": [],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "Subrayas la creación como algo vivo: el proceso creativo como lo que nos hace humanos y lo que una IA tendría que heredar para crear de verdad. Encaja con tus lecturas de Butler y I am AI: automatización frente a sentido, y un futuro que se explora en lugar de conquistarse."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "Las historias nos hacen existir",
+  "nucleo_sub": "7 ramas · 17 subrayados · hilo: Inspiración → Creación → Vulnerabilidad → Humanidad → Herencia",
+  "hilo": [
+   [
+    "Inspiración",
+    "el sueño"
+   ],
+   [
+    "Creación",
+    "la historia"
+   ],
+   [
+    "Vulnerabilidad",
+    "la autora"
+   ],
+   [
+    "Humanidad",
+    "lo que nos hace vivos"
+   ],
+   [
+    "Herencia",
+    "la IA que crea"
+   ]
+  ],
+  "favorita": 16,
+  "ramas": [
+   {
+    "title": "Relatos y creación",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     3,
+     13,
+     9,
+     17
+    ],
+    "key": "relatos",
+    "label": "las historias dan ser",
+    "pos": [
+     492,
+     250
+    ]
+   },
+   {
+    "title": "Sueños e inspiración",
+    "tag": "INSPIRACIÓN",
+    "flow": 1,
+    "quotes": [
+     4,
+     15,
+     5,
+     10
+    ],
+    "key": "suenos",
+    "label": "el fogonazo",
+    "pos": [
+     125,
+     130
+    ]
+   },
+   {
+    "title": "La autora, vulnerable",
+    "tag": "VULNERABILIDAD",
+    "flow": 2,
+    "quotes": [
+     11,
+     1
+    ],
+    "key": "autora",
+    "label": "darse y exponerse",
+    "pos": [
+     350,
+     62
+    ]
+   },
+   {
+    "title": "Duelo y mortalidad",
+    "tag": "HUMANIDAD",
+    "flow": 3,
+    "quotes": [
+     7
+    ],
+    "key": "duelo",
+    "label": "seguir viendo caer",
+    "pos": [
+     634,
+     62
+    ]
+   },
+   {
+    "title": "Lo humano y lo otro",
+    "tag": "HUMANIDAD",
+    "flow": 3,
+    "quotes": [
+     6,
+     8
+    ],
+    "key": "humano",
+    "label": "lente estrecha, vestigios",
+    "pos": [
+     859,
+     130
+    ]
+   },
+   {
+    "title": "IA, robots y humanidad",
+    "tag": "HERENCIA",
+    "flow": 4,
+    "quotes": [
+     16,
+     2,
+     12
+    ],
+    "key": "ia",
+    "label": "crear desde dentro",
+    "pos": [
+     859,
+     400
+    ]
+   },
+   {
+    "title": "Explorar, no colonizar",
+    "tag": "DESTINO",
+    "flow": null,
+    "quotes": [
+     14
+    ],
+    "key": "explorar",
+    "label": "Marte sin casa",
+    "pos": [
+     125,
+     400
+    ]
+   }
+  ],
+  "pie": "17 citas literales de tus subrayados · Nnedi Okorafor, La muerte de la autora (Maeva, 2026)"
+ },
+ "obras": {
+  "titulo": "Otras obras de Nnedi Okorafor",
+  "nota": "Ediciones en castellano; enlaces comprobados (HTTP 200) el 24 oct 2026. Lagoon, Remote Control, Kabu Kabu y Noor no tienen edición en castellano localizada.",
+  "items": [
+   {
+    "cover": "obras/00.jpg",
+    "title": "Binti",
+    "orig": "Binti · 2015 · Binti 1",
+    "line": "Una joven himba deja Namibia para estudiar en la universidad galáctica Oomza; Hugo y Nebula.",
+    "es": "Crononauta, 2018",
+    "me": "✦ Por descubrir",
+    "url": "https://www.crononauta.es/products/binti",
+    "url_label": "crononauta.es · Binti"
+   },
+   {
+    "cover": "obras/01.jpg",
+    "title": "Binti: Hogar",
+    "orig": "Binti: Home · 2017 · Binti 2",
+    "line": "Binti vuelve a la Tierra con su familia y descubre otra parte de su herencia.",
+    "es": "Crononauta, 2018",
+    "me": "✦ Por descubrir",
+    "url": "https://www.crononauta.es/products/binti-hogar",
+    "url_label": "crononauta.es · Binti: Hogar"
+   },
+   {
+    "cover": "obras/02.jpg",
+    "title": "Binti: La mascarada nocturna",
+    "orig": "The Night Masquerade · 2018 · Binti 3",
+    "line": "Cierre de la trilogía: guerra entre himba y khoush, y Binti en medio.",
+    "es": "Crononauta, 2019",
+    "me": "✦ Por descubrir",
+    "url": "https://www.crononauta.es/products/binti-la-mascarada-nocturna",
+    "url_label": "crononauta.es · La mascarada nocturna"
+   },
+   {
+    "cover": "obras/03.jpg",
+    "title": "Binti: Fuego sagrado",
+    "orig": "Binti: Sacred Fire · relato",
+    "line": "Relato breve que vuelve al universo de Binti.",
+    "es": "Crononauta",
+    "me": "✦ Por descubrir",
+    "url": "https://www.crononauta.es/products/binti-fuego-sagrado",
+    "url_label": "crononauta.es · Fuego sagrado"
+   },
+   {
+    "cover": "obras/04.jpg",
+    "title": "Quién teme a la muerte",
+    "orig": "Who Fears Death · 2010",
+    "line": "África postapocalíptica: Onyesonwu, hija de una violación de guerra, descubre su poder; World Fantasy.",
+    "es": "Crononauta, 2019",
+    "me": "✦ Por descubrir",
+    "url": "https://www.crononauta.es/products/quien-teme-a-la-muerte",
+    "url_label": "crononauta.es · Quién teme a la muerte"
+   },
+   {
+    "cover": "obras/05.jpg",
+    "title": "El libro de Fénix",
+    "orig": "The Book of Phoenix · 2015",
+    "line": "Precuela de Quién teme a la muerte: una mujer creada en laboratorio se rebela contra sus creadores.",
+    "es": "Crononauta, 2022",
+    "me": "✦ Por descubrir",
+    "url": "https://www.crononauta.es/products/el-libro-de-fenix",
+    "url_label": "crononauta.es · El libro de Fénix"
+   },
+   {
+    "cover": "obras/06.jpg",
+    "title": "Bruja Akata",
+    "orig": "Akata Witch · 2011 · Akata 1",
+    "line": "Sunny, albina nigeroamericana, descubre que es una «persona leopardo» con poderes mágicos.",
+    "es": "Nocturna, 2019",
+    "me": "✦ Por descubrir",
+    "url": "https://www.nocturnaediciones.com/libro/226/bruja_akata",
+    "url_label": "nocturnaediciones.com · Bruja Akata"
+   },
+   {
+    "cover": "obras/07.jpg",
+    "title": "Guerrera Akata",
+    "orig": "Akata Warrior · 2017 · Akata 2",
+    "line": "Sunny y su grupo se enfrentan a una amenaza que podría destruir el mundo.",
+    "es": "Nocturna, 2021",
+    "me": "✦ Por descubrir",
+    "url": "https://www.nocturnaediciones.com/libro/258/guerrera_akata",
+    "url_label": "nocturnaediciones.com · Guerrera Akata"
+   },
+   {
+    "cover": "obras/08.jpg",
+    "title": "Mujer Akata",
+    "orig": "Akata Woman · 2022 · Akata 3",
+    "line": "Cierre de la trilogía Akata: una misión en el mundo espiritual.",
+    "es": "Nocturna, 2023",
+    "me": "✦ Por descubrir",
+    "url": "https://www.nocturnaediciones.com/libro/346/mujer_akata",
+    "url_label": "nocturnaediciones.com · Mujer Akata"
+   }
+  ]
+ }
+}

@@ -11,6 +11,8 @@ def citas(p):
     for line in p.read_text(encoding="utf-8").splitlines():
         m = re.match(r"^(\d+)\. (.*)$", line)
         if m: out[int(m[1])] = MARCA.sub("", m[2])
+    if not out:  # formato sin numerar: una cita por línea, en orden (1, 2, 3...)
+        out = {i+1: MARCA.sub("", l) for i, l in enumerate(x for x in p.read_text(encoding="utf-8").splitlines() if x.strip())}
     return out
 CSS = (R/"plantilla"/"estilo.css").read_text(encoding="utf-8"); JS = (R/"plantilla"/"mapa.js").read_text(encoding="utf-8")
 def page(title, body, depth):
