@@ -1,0 +1,63 @@
+{
+ "titulo": "La revuelta de los copistas",
+ "subtitulo": "Cómo el conocimiento perdió el juicio",
+ "autor": "Xavier Nueno",
+ "etiquetas": [
+  "Ensayo",
+  "IA",
+  "Bibliotecas",
+  "Trabajo"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "21 oct 2026",
+   "texto": "en librerías"
+  },
+  {
+   "valor": "336",
+   "texto": "págs. · tapa blanda 14 × 22 cm"
+  },
+  {
+   "valor": "21,90 €",
+   "texto": "papel (Casa del Libro 20,80 €)"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "EPUB 11,99 €"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Sinopsis",
+   "puntos": [
+    "Las tecnológicas se han apropiado del acervo que custodiaban las bibliotecas y ahora nos lo venden por suscripción como si fuera conocimiento nuevo. Nueno cuenta la privatización del saber a través de su fuerza de trabajo: copistas, estenógrafos, bibliotecarios, archiveros, programadores… y algún picapleitos. Su propuesta política: si la máquina se alimentó de nuestra memoria colectiva, los modelos de lenguaje deberían ser públicos."
+   ]
+  },
+  {
+   "titulo": "Primeras reacciones",
+   "puntos": [
+    "El País (20 oct): una alerta sobre la privatización del saber en la IA; incluye la historia del trabajo no pagado de las mujeres en las bibliotecas. Ganó entre 340 originales de 24 países; jurado: Jordi Gracia, Pau Luque, Daniel Rico, Remedios Zafra, Silvia Sesé e Isabel Obiols. ⭐ Goodreads y reseñas críticas: no encontrado (salió ayer)."
+   ]
+  },
+  {
+   "titulo": "Del autor",
+   "puntos": [
+    "Barcelona, 1990 · doctor por Harvard (tesis sobre motores de búsqueda) · investiga en la EPFL de Lausana",
+    "El arte del saber ligero (Siruela, 2023), sobre el exceso de información",
+    "Coautor: Napa(s). Persistir en lo inacabado (2017) · Chaque Mercredi Caracas (2020)"
+   ]
+  },
+  {
+   "titulo": "Encaje contigo, Miguel",
+   "puntos": [
+    "Es de tu trabajo: de dónde salen los datos de la IA, quién se los apropia y qué pasa con el trabajo intelectual . Te da argumentos e historia para tus formaciones, más allá del hype y del apocalipsis. Ensayo, no ficción, pero con humor y con mirada de futuro del trabajo."
+   ],
+   "nota": "9/10"
+  }
+ ],
+ "descargas": {
+  "ficha_png": "ficha.png",
+  "ficha_pdf": "ficha.pdf"
+ }
+}

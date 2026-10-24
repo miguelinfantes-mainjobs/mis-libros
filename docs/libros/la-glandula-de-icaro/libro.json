@@ -1,0 +1,61 @@
+{
+ "titulo": "La glándula de Ícaro",
+ "subtitulo": "Икарова железа · El libro de las metamorfosis",
+ "autor": "Anna Starobinets",
+ "etiquetas": [
+  "Relatos",
+  "Distopía",
+  "Horror lírico",
+  "Tecnología y cuerpo"
+ ],
+ "portada": "portada.png",
+ "datos": [
+  {
+   "valor": "2013",
+   "texto": "original ruso (premio Bestseller Nacional)"
+  },
+  {
+   "valor": "F. Otero",
+   "texto": "traducción: Fernando Otero Macías"
+  },
+  {
+   "valor": "22,80 €",
+   "texto": "rústica, 256 págs."
+  },
+  {
+   "valor": "13,99 €",
+   "texto": "ebook (epub)"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Sinopsis: siete relatos",
+   "puntos": [
+    "La glándula de Ícaro : una operación extirpa la glándula del impulso, y con ella la infidelidad",
+    "Siti : un escritor obtiene una beca para vivir en la ciudad que todos desean",
+    "El lazarillo : un guionista ninguneado y dos productores con intenciones oscuras",
+    "El parásito : científicos y religiosos hacen un experimento con un huérfano mudo",
+    "La frontera : un tren que viaja en el tiempo, pero solo hacia atrás",
+    "Delicados pastos : digitalizar la conciencia para no envejecer",
+    "Spoki : una IA que cría y entretiene a los niños"
+   ]
+  },
+  {
+   "titulo": "Valoraciones y críticas",
+   "puntos": [
+    "⭐ Goodreads 4,02 (~1.500 valoraciones de la edición rusa; nota de la española: no encontrada). Impedimenta la presenta como un «híbrido entre Black Mirror y Samanta Schweblin», y la reseñaron, entre otros, Babelia, Zenda y Jot Down. Los blogs destacan el terror psicológico y tecnológico, y señalan «El parásito» y «Spoki» como los relatos más perturbadores."
+   ]
+  },
+  {
+   "titulo": "Encaje contigo, Miguel",
+   "puntos": [
+    "Es la mejor puerta de entrada a Starobinets para ti: anticipación social en piezas cortas sobre IA en la crianza, conciencia digital, control del cuerpo y mercados del deseo. Está mejor valorada que El Vivo y se lee en pocas sesiones. Le resto puntos porque tira más al horror que a la especulación social pura y porque es muy oscuro y en algún relato llega a ser repulsivo."
+   ],
+   "nota": "8/10"
+  }
+ ],
+ "descargas": {
+  "ficha_png": "ficha.png",
+  "ficha_pdf": "ficha.pdf"
+ }
+}

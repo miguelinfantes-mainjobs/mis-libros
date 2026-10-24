@@ -1,0 +1,67 @@
+{
+ "titulo": "Estación de tránsito",
+ "subtitulo": "Way Station · Premio Hugo 1964 a la mejor novela",
+ "autor": "Clifford D. Simak",
+ "etiquetas": [
+  "Clásico CF",
+  "Primer contacto",
+  "Guerra fría",
+  "Pastoral"
+ ],
+ "portada": "portada.png",
+ "datos": [
+  {
+   "valor": "1963",
+   "texto": "original (serial en Galaxy: Here Gather the Stars )"
+  },
+  {
+   "valor": "J. Ribera",
+   "texto": "traducción (EDHASA 1966); rev. S. Rodríguez Vida 2003"
+  },
+  {
+   "valor": "~206",
+   "texto": "págs. (Minotauro 2003) Alamut 2027: n/d"
+  },
+  {
+   "valor": "eBook ?",
+   "texto": "en español: no encontrado"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Sinopsis",
+   "puntos": [
+    "Enoch Wallace, veterano de la Guerra de Secesión, vive en una granja aislada de Wisconsin y, con más de 120 años, no ha envejecido. Su casa es en secreto una estación de tránsito galáctica: allí recibe a viajeros de las estrellas. Cuando la CIA empieza a vigilarlo y alguien profana el cementerio familiar, Enoch descubre que la Tierra va hacia la guerra… y que la galaxia también se tambalea."
+   ]
+  },
+  {
+   "titulo": "Valoraciones y críticas",
+   "puntos": [
+    "⭐ Goodreads 4,03 (≈30.600 valoraciones). Puesto 25 en la encuesta Locus de todos los tiempos (1987). Minotauro destaca su «hondura psicológica» y su denuncia de la violencia y la guerra; en Goodreads se le llama «encantador» aunque «algo anticuado»."
+   ]
+  },
+  {
+   "titulo": "Ediciones en español",
+   "puntos": [
+    "EDHASA Nebulae (1966) · Martínez Roca Super Ficción (1985) · Orbis (1986) · Minotauro Kronos (2003) · Alamut (2027) : ¿nueva traducción? no encontrado"
+   ]
+  },
+  {
+   "titulo": "Otras obras de Simak en español",
+   "puntos": [
+    "Ciudad (1952, International Fantasy Award) · Minotauro, trad. José Valdivieso; ebook 2015"
+   ]
+  },
+  {
+   "titulo": "Encaje contigo, Miguel",
+   "puntos": [
+    "Clásico de ideas grandes pero íntimo y sin batallas espaciales : un solitario que observa la humanidad desde fuera, con alegato antibelicista y miedo nuclear de los 60. Encaja con Le Guin, Contacto o Tau Zero . Menos anticipación social y diversidad de la que buscas ahora, y se nota su época; perfecto como lectura serena y breve."
+   ],
+   "nota": "7/10"
+  }
+ ],
+ "descargas": {
+  "ficha_png": "ficha.png",
+  "ficha_pdf": "ficha.pdf"
+ }
+}

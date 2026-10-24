@@ -1,0 +1,67 @@
+{
+ "titulo": "En las manos, el paraíso quema",
+ "subtitulo": "Una amistad queer al final del mundo",
+ "autor": "Pol Guasch",
+ "etiquetas": [
+  "Distopía climática",
+  "Colapso",
+  "Literatura queer",
+  "Prosa poética"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "2024",
+   "texto": "Original catalán Ofert a les mans, el paradís crema"
+  },
+  {
+   "valor": "Jun 2024",
+   "texto": "Edición en español (primera traducción)"
+  },
+  {
+   "valor": "Anagrama",
+   "texto": "Narrativas hispánicas 168 págs · 18,90 €"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "EPUB / Kindle 10,99 € (10,44 € en Casa del Libro)"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Sinopsis",
+   "puntos": [
+    "Rita vive en la Colonia, en lo alto de una montaña donde hombres cansados vacían una mina que se agota, y ve cómo los bosques del valle empiezan a arder. Líton, que creció en la ciudad, apaga incendios con los chicos del Servicio. La novela sigue su amistad de la infancia a la veintena, el deseo, sus amores con Fèlix y René, en un mundo marcado por la extinción ( ¿cómo sonará el zumbido de una abeja? ) donde la amistad se vuelve una conjura para imaginar un lugar habitable."
+   ]
+  },
+  {
+   "titulo": "Críticas y valoraciones",
+   "puntos": [
+    "⭐ Goodreads: 3,70/5 la edición española (1.035 valoraciones) · 3,93/5 la catalana (2.004)",
+    "«Un libro maravilloso que lleva la esperanza de la amistad al fin del mundo» — Alana S. Portero",
+    "«Electrizante… una voz singular, dulce y eruptiva a la vez» — Le Monde · Zenda la llama «absolutamente original» y Contrapunto destaca su crítica ecologista y laboral.",
+    "👎 Clarín critica los cambios arbitrarios de narrador y tiempo verbal: «no terminan de producir una novela».",
+    "Novedad: acaba de salir en inglés ( Paradise Burns , FSG, 20 oct 2026)."
+   ]
+  },
+  {
+   "titulo": "Otras obras del autor",
+   "puntos": [
+    "Napalm en el corazón (2021) · Premio Llibres Anagrama de Novela; en la lista de mejores libros de 2024 de The New Yorker",
+    "Reliquia (2026) · no ficción sobre el suicidio de su padre",
+    "Poesía: Tanta gana (2018) y La parte del fuego (2021, premio López-Picó)"
+   ]
+  },
+  {
+   "titulo": "Encaje contigo",
+   "puntos": [
+    "Distopía de colapso climático con trasfondo de explotación minera y trabajo precario, contada desde personajes queer: toca tu interés por futuros alternativos y voces diversas. Ojo: es más literaria y poética que «de ideas»; no esperes worldbuilding ni explicaciones. Con 168 páginas, es un buen respiro corto entre Butler y Butler."
+   ],
+   "nota": "7,5"
+  }
+ ],
+ "descargas": {
+  "ficha_png": "ficha.png",
+  "ficha_pdf": "ficha.pdf"
+ }
+}

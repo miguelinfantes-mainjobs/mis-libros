@@ -1,0 +1,62 @@
+{
+ "titulo": "PersonotecnIA",
+ "subtitulo": "Cómo crear relevancia a gran escala en la era de la inteligencia artificial",
+ "autor": "Javier G. Recuenco · Miguel Ángel Uriondo",
+ "etiquetas": [
+  "Ensayo",
+  "Negocios",
+  "IA",
+  "Marketing"
+ ],
+ "portada": "portada.png",
+ "datos": [
+  {
+   "valor": "2026",
+   "texto": "14 oct · original en español (sin traducción)"
+  },
+  {
+   "valor": "Tenos",
+   "texto": "Editorial · col. Negocios"
+  },
+  {
+   "valor": "260",
+   "texto": "páginas · tapa blanda 20,90 €"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "EPUB · 14,99 €"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Sinopsis",
+   "puntos": [
+    "Tu tienda sabe todo lo que le compraste y aun así te recomienda el abrigo que ya tienes. Las empresas confunden acumular datos con conocer a la gente, y la IA lo ha agravado. La personotecnia propone que toda una empresa se comporte como un buen tendero de barrio: relevancia a gran escala. Con humor y casos reales (Telefónica, Mercadona, Pepephone, Netflix, Spotify, MrBeast) y el papel de los agentes de IA."
+   ]
+  },
+  {
+   "titulo": "Valoraciones",
+   "puntos": [
+    "⭐ Goodreads · Amazon: no encontrado — publicado hace una semana, aún sin reseñas."
+   ]
+  },
+  {
+   "titulo": "Obras anteriores",
+   "puntos": [
+    "Uriondo: Cómo evitar que tus hijos estudien Periodismo · La Píldora Serrahima",
+    "Recuenco: Personalización (2004, con J. Salutregui) · Utopía: Tecnofuturos 2020 (colaborador)"
+   ]
+  },
+  {
+   "titulo": "Encaje contigo, Miguel",
+   "puntos": [
+    "No es ciencia ficción ni anticipación social: es ensayo de negocio sobre personalización e IA. Pero te toca de lleno en lo profesional (gestión de proyectos, consultoría y formación en IA) y su tesis de agentes de IA y \"tratar a las personas como personas\" dialoga con Tiempo de futuros o Agency . Útil y ameno; no te dará la chispa de una distopía."
+   ],
+   "nota": "6/10"
+  }
+ ],
+ "descargas": {
+  "ficha_png": "ficha.png",
+  "ficha_pdf": "ficha.pdf"
+ }
+}

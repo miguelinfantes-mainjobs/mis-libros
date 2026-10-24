@@ -1,0 +1,146 @@
+{
+ "titulo": "La parábola de los talentos",
+ "subtitulo": "Capitán Swing · Semilla Terrestre, libro 2 · tus 41 subrayados, literales y agrupados por temas",
+ "autor": "Octavia E. Butler",
+ "etiquetas": [
+  "Educación",
+  "Futuro del trabajo",
+  "Comunidad",
+  "Propósito a largo plazo"
+ ],
+ "portada": "portada.jpg",
+ "datos": [],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "Subrayas menos el colapso que la salida: aprender y enseñar como motor, el trabajo digno frente a la servidumbre por deudas, la comunidad pequeña y responsable, y una meta lejana y difícil que dé sentido al esfuerzo colectivo."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "Semilla Terrestre · Dios es Cambio",
+  "nucleo_sub": "7 ramas · 41 subrayados · hilo: Crisis → Comunidad → Educación → Movimiento → Destino",
+  "hilo": [
+   [
+    "Crisis",
+    "la Calamidad"
+   ],
+   [
+    "Comunidad",
+    "asociarse"
+   ],
+   [
+    "Educación",
+    "aprender a aprender"
+   ],
+   [
+    "Movimiento",
+    "fe + acción"
+   ],
+   [
+    "Destino",
+    "las estrellas"
+   ]
+  ],
+  "favorita": 19,
+  "ramas": [
+   {
+    "title": "Dios es Cambio",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     1,
+     2,
+     36,
+     29,
+     9,
+     41
+    ]
+   },
+   {
+    "title": "La Calamidad / crisis",
+    "tag": "CRISIS",
+    "flow": 1,
+    "quotes": [
+     3,
+     4,
+     23,
+     7,
+     12,
+     31,
+     16,
+     15
+    ]
+   },
+   {
+    "title": "Trabajo y servidumbre",
+    "tag": "CRISIS",
+    "flow": 1,
+    "quotes": [
+     35,
+     13,
+     8
+    ]
+   },
+   {
+    "title": "Comunidad y asociación",
+    "tag": "COMUNIDAD",
+    "flow": 2,
+    "quotes": [
+     14,
+     20,
+     25,
+     21,
+     33,
+     38
+    ]
+   },
+   {
+    "title": "Conocimiento y educación",
+    "tag": "EDUCACIÓN",
+    "flow": 3,
+    "quotes": [
+     5,
+     6,
+     17,
+     40,
+     39,
+     27
+    ]
+   },
+   {
+    "title": "Fe y acción",
+    "tag": "MOVIMIENTO",
+    "flow": 4,
+    "quotes": [
+     28,
+     24,
+     34,
+     37,
+     18,
+     10
+    ]
+   },
+   {
+    "title": "Propósito y Destino",
+    "tag": "DESTINO",
+    "flow": 5,
+    "quotes": [
+     19,
+     26,
+     30,
+     22,
+     32,
+     11
+    ]
+   }
+  ],
+  "pie": "41 citas literales de tus subrayados · Octavia E. Butler, La parábola de los talentos (Capitán Swing)"
+ }
+}

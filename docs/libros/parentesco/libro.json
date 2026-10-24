@@ -1,0 +1,68 @@
+{
+ "titulo": "Parentesco",
+ "subtitulo": "Kindred · Octavia E. Butler (1979)",
+ "autor": "Octavia E. Butler",
+ "etiquetas": [
+  "Viaje en el tiempo",
+  "Esclavitud",
+  "Afrofuturismo",
+  "Clásico"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "1979",
+   "texto": "original (Doubleday)"
+  },
+  {
+   "valor": "328",
+   "texto": "págs. rústica con solapas 20,00 €"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "EPUB 9,99 € (desde sept. 2019)"
+  },
+  {
+   "valor": "4,30 ★",
+   "texto": "Goodreads (original, +242.000 valoraciones)"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Sinopsis",
+   "puntos": [
+    "Dana, joven escritora negra, se acaba de mudar con su marido en la California de 1976. Sin explicación, es arrastrada una y otra vez a una plantación de Maryland antes de la Guerra de Secesión, para salvar a Rufus, hijo del dueño y antepasado suyo. Cada viaje la enreda más en la vida del esclavista y de las personas que él esclaviza, y en su propia historia familiar."
+   ]
+  },
+  {
+   "titulo": "Valoraciones y críticas",
+   "puntos": [
+    "Su obra más famosa y piedra angular del afrofuturismo, con más de medio millón de ejemplares vendidos según la editorial. La edición española tiene 4,18 en Goodreads (≈1.700 valoraciones)."
+   ]
+  },
+  {
+   "titulo": "Novela gráfica",
+   "puntos": [
+    "Kindred: A Graphic Novel Adaptation (Abrams ComicArts, 2017) de Damian Duffy y John Jennings · Eisner 2018 a mejor adaptación, Bram Stoker 2017. En español: Parentesco , Oberon, 2019."
+   ]
+  },
+  {
+   "titulo": "Más Butler en español",
+   "puntos": [
+    "La parábola del sembrador (2021) y La parábola de los talentos (2021): ya leídas ✓",
+    "Hija de sangre y otros relatos · trilogía Xenogénesis ( Amanecer …)"
+   ]
+  },
+  {
+   "titulo": "Encaje contigo, Miguel",
+   "puntos": [
+    "Si te han encantado las Parábolas , este es el siguiente paso obvio: la Butler esencial, breve e intensa. Es menos anticipación que memoria histórica: el viaje en el tiempo sirve para mirar la esclavitud y su herencia, con una protagonista negra que piensa y resiste. Duro, pero de los que te cambian."
+   ],
+   "nota": "9/10"
+  }
+ ],
+ "descargas": {
+  "ficha_png": "ficha.png",
+  "ficha_pdf": "ficha.pdf"
+ }
+}

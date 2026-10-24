@@ -1,0 +1,64 @@
+{
+ "titulo": "I am AI",
+ "subtitulo": "Novelette · finalista Hugo, Nebula y Locus 2024",
+ "autor": "Ai Jiang",
+ "etiquetas": [
+  "Cyberpunk",
+  "IA y creatividad",
+  "Futuro del trabajo",
+  "Distopía"
+ ],
+ "portada": "portada.png",
+ "datos": [
+  {
+   "valor": "2023",
+   "texto": "original (Shortwave, 20 jun 2023)"
+  },
+  {
+   "valor": "L. Morán",
+   "texto": "traducción: Laura Morán Iglesias"
+  },
+  {
+   "valor": "12.509",
+   "texto": "palabras (~80 págs. en rústica inglesa)"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "precio en español: no encontrado (EN 3,99 €)"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Sinopsis",
+   "puntos": [
+    "¿A cuánta humanidad renunciarías para competir con la inteligencia artificial? Ai es una cyborg que trabaja de escritora fantasma haciéndose pasar por un programa de escritura con IA. Ha ido cambiando partes de su cuerpo por eficiencia para sobrevivir en Emit, una ciudad distópica que nunca duerme y que amenaza con dejar atrás a quienes son como ella."
+   ]
+  },
+  {
+   "titulo": "Valoraciones, críticas y premios",
+   "puntos": [
+    "⭐ Goodreads 4,0 (~760 valoraciones). Finalista de los premios Hugo, Nebula y Locus 2024 a mejor novelette, del Aurora y del BSFA (ficción corta). No ganó ninguno. Está en la lista de lecturas recomendadas de Locus y entre las obras destacadas de Best American SF&F 2024 . Samit Basu la llama «conmovedora, brillante y 100 % humana». Algunos lectores la ven como un «golpe emocional», pero otros critican que la distopía es tópica y que se alarga para lo que plantea."
+   ]
+  },
+  {
+   "titulo": "Otras obras de Ai Jiang",
+   "puntos": [
+    "Linghun (2023, premio Bram Stoker): en español en Dilatando Mentes (2024), traducción de José Ángel de Dios, 19,95 €",
+    "«Give Me English» (F&SF 2022, finalista del Nebula): en español en Voces de lo insólito (2024)",
+    "Dúo Natural Engines : A Palace Near the Wind y A River from the Sky (fantasía científica, inédito en español)",
+    "Secuela de I am AI : no encontrada"
+   ]
+  },
+  {
+   "titulo": "Encaje contigo, Miguel",
+   "puntos": [
+    "Es casi un encargo para ti: IA, precariedad creativa y productividad tóxica en una distopía social, escrita por una autora chino-canadiense inmigrante. Además es corta: se lee en una tarde y te sale gratis con Aanuk. Le resto puntos porque la distopía es poco original y hay lectores que la ven obvia. Pesa más la emoción que la especulación dura."
+   ],
+   "nota": "8/10"
+  }
+ ],
+ "descargas": {
+  "ficha_png": "ficha.png",
+  "ficha_pdf": "ficha.pdf"
+ }
+}

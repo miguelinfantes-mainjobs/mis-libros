@@ -1,0 +1,65 @@
+{
+ "titulo": "Secuestros americanos",
+ "subtitulo": "Cuando un algoritmo decide quién se queda",
+ "autor": "Mauro Javier Cárdenas",
+ "etiquetas": [
+  "Distopía cercana",
+  "Control algorítmico",
+  "Migración",
+  "Autor latinoamericano"
+ ],
+ "portada": "portada.png",
+ "datos": [
+  {
+   "valor": "2024",
+   "texto": "Original inglés American Abductions (Dalkey Archive)"
+  },
+  {
+   "valor": "12 oct 2026",
+   "texto": "Edición en español (primera traducción)"
+  },
+  {
+   "valor": "Gólem",
+   "texto": "Barcelona · rústica 224 págs · 22 €"
+  },
+  {
+   "valor": "eBook ✗",
+   "texto": "Solo papel por ahora; no he encontrado ebook"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Sinopsis",
+   "puntos": [
+    "En un futuro no tan lejano, los algoritmos orquestan la deportación masiva de latinoamericanos de Estados Unidos, tengan o no la ciudadanía. Unos agentes «secuestran» a Antonio delante de sus hijas, Ada y Eva. Años después, Eva vive en Bogotá cuidando de su padre enfermo y Ada sigue sola en un San Francisco tecnológico y frío. Cuando él empeora, Ada debe intentar un viaje casi imposible. Por el camino aparecen una Leonora Carrington replicada por una IA, las voces de los deportados que se reencuentran en la nube y el fantasma de Bolaño en los centros de detención."
+   ]
+  },
+  {
+   "titulo": "Críticas y valoraciones",
+   "puntos": [
+    "⭐ Goodreads (edición inglesa): 3,81/5 con 258 valoraciones · la edición española aún no tiene notas",
+    "Kirkus (reseña destacada): «A dark, original work», con frases largas y en bucle llenas de rabia, humor negro y surrealistas; le importa más el trauma colectivo que la historia individual.",
+    "The Washington Post: «one of the most affecting and inventive novels in recent memory», un relato lúdico y experimental donde quién cuenta la historia es el verdadero tema.",
+    "👎 Ojo: es prosa experimental de frases-río y coro de voces, no un thriller distópico. Aún no he encontrado reseñas en prensa española."
+   ]
+  },
+  {
+   "titulo": "Otras obras del autor",
+   "puntos": [
+    "Los revolucionarios lo intentan de nuevo (2016; Literatura Random House, 2018) · amigos idealistas en el Ecuador de la austeridad y la corrupción",
+    "Aphasia (FSG, 2020) · reseña destacada en Kirkus · sin edición española localizada"
+   ]
+  },
+  {
+   "titulo": "Encaje contigo",
+   "puntos": [
+    "Anticipación social pura y muy de 2026: un Estado que deporta por algoritmo, la tecnología como máquina de exclusión y una mirada latinoamericana que casi nunca llega a la CF que lees. Encaja con tu interés por la IA y por los futuros que se parecen demasiado al presente, y es corta (224 págs.). Dos pegas: la prosa experimental pide paciencia y, de momento, solo existe en papel. Si te pide algo más convencional sobre el mismo tema, este mes también ha salido La República de Jorge Volpi."
+   ],
+   "nota": "8"
+  }
+ ],
+ "descargas": {
+  "ficha_png": "ficha.png",
+  "ficha_pdf": "ficha.pdf"
+ }
+}
