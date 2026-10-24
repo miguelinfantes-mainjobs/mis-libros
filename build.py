@@ -50,6 +50,15 @@ def build():
             ramas.append(nodo(et, [nodo(f'<span class="txt">{E(p)}</span>', []) for p in c["puntos"]], "rama sec"))
         if b["datos"]:
             ramas.append(nodo("Datos", [nodo(f'<b>{E(x["valor"])}</b> <span class="txt">{E(x["texto"])}</span>', []) for x in b["datos"]], "rama sec"))
+        o = b.get("obras"); obras_html = ""
+        if o:
+            def ob(w):
+                img = f'<img src="{E(w["cover"])}" alt="">' if w.get("cover") else ""
+                url = f'<a href="{E(w["url"])}" target="_blank" rel="noopener">{E(w.get("url_label") or "Ver")}</a>' if w.get("url") else ""
+                return f'<div class="obra">{img}<div><b>{E(w["title"])}</b> <span class="est">{E(w.get("me",""))}</span><small>{E(w.get("orig",""))} · {E(w.get("es",""))}</small><p>{E(w.get("line",""))}</p>{url}</div></div>'
+            ramas.append(nodo(E(o["titulo"]), [f'<li>{ob(w)}</li>' for w in o["items"]], "rama sec"))
+            obras_html = f'<section class="sec"><h2>{E(o["titulo"])}</h2><div class="obras">' + "".join(ob(w) for w in o["items"]) + f'</div><p class="nota">{E(o["nota"])}</p></section>'
+        if s: tarjetas += obras_html
         mapa = f'<div class="controles"><button data-accion="abrir">Abrir todo</button><button data-accion="cerrar">Cerrar todo</button></div><ul class="mapa"><li class="abierto raiz"><button class="nodo centro" aria-expanded="true">{centro}</button><ul>{"".join(ramas)}</ul></li></ul>'
         body = hero + desc + '<div class="pestanas"><button class="activa" data-vista="mapa">🧠 Mapa</button><button data-vista="tarjetas">🃏 Tarjetas</button></div>' + f'<div class="vista" id="v-mapa">{hilo_html if s else ""}{mapa}</div><div class="vista oculto" id="v-tarjetas">{tarjetas}</div>'
         (D/"libros"/d.name/"index.html").write_text(page(b["titulo"], body, 2), encoding="utf-8")

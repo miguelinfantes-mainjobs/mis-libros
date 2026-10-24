@@ -56,3 +56,9 @@ li.abierto>.nodo.rama{background:var(--acc);color:#fff}li.abierto>.nodo.rama sma
 .card{background:#fff;border-radius:22px;padding:20px 26px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,.06)}
 .card h3{margin:0 0 8px;font-size:14px;text-transform:uppercase;letter-spacing:1.5px;color:var(--pink)}.card p{font-size:17px;line-height:1.45;margin:4px 0}
 @media(max-width:700px){.hero{flex-direction:column;align-items:flex-start}.cols{column-count:1}.hoja{max-width:78vw}.tit{font-size:38px}}
+
+.obras{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+.obra{display:flex;gap:14px;background:#fff;border-radius:18px;padding:12px;box-shadow:0 2px 8px rgba(0,0,0,.06);max-width:560px;font-size:14px;line-height:1.4}
+.obra img{width:70px;border-radius:8px;object-fit:cover;align-self:flex-start}.obra small{display:block;color:var(--mute)}.obra p{margin:4px 0}
+.obra .est{background:var(--hi);border-radius:10px;padding:1px 8px;font-size:12px;font-weight:700}.obra a{color:var(--accd);font-weight:700;text-decoration:none}
+.nota{color:var(--mute);font-size:13px}

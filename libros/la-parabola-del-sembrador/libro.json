@@ -1,0 +1,258 @@
+{
+ "titulo": "La parábola del sembrador",
+ "subtitulo": "Capitán Swing, 2021 · Semilla Terrestre, libro 1 · tus subrayados, literales y agrupados por temas",
+ "autor": "Octavia E. Butler",
+ "etiquetas": [
+  "Cambio",
+  "Educación",
+  "Persistencia",
+  "Futuro del trabajo",
+  "Comunidad"
+ ],
+ "portada": "portada.jpg",
+ "datos": [],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "Como en Talentos, subrayas la salida más que el desastre: aceptar el cambio en vez de negarlo, enseñar antes que asustar, persistir aunque no sea lo más seguro y apoyarte en quien decide quedarse. Vuelve a aparecer el trabajo como algo intercambiable y precario."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "Semilla Terrestre · el cambio es inevitable",
+  "nucleo_sub": "7 ramas · 24 subrayados · hilo: Colapso → Enseñar → Aliados → Destino",
+  "hilo": [
+   [
+    "Colapso",
+    "la gran ciudad"
+   ],
+   [
+    "Negación",
+    "la barandilla"
+   ],
+   [
+    "Enseñar",
+    "mejor que asustar"
+   ],
+   [
+    "Aliados",
+    "me quedo"
+   ],
+   [
+    "Destino",
+    "otro lugar"
+   ]
+  ],
+  "favorita": 2,
+  "ramas": [
+   {
+    "title": "Cambio y Semilla Terrestre",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     2,
+     12,
+     8,
+     16
+    ],
+    "key": "cambio",
+    "label": "el cambio como verdad",
+    "pos": [
+     492,
+     250
+    ]
+   },
+   {
+    "title": "Colapso y negación",
+    "tag": "CRISIS",
+    "flow": 1,
+    "quotes": [
+     1,
+     3,
+     23,
+     10,
+     18,
+     14
+    ],
+    "key": "colapso",
+    "label": "aferrarse al pasado",
+    "pos": [
+     125,
+     130
+    ]
+   },
+   {
+    "title": "Trabajo y esclavitud",
+    "tag": "CRISIS",
+    "flow": 1,
+    "quotes": [
+     19,
+     22,
+     24
+    ],
+    "key": "trabajo",
+    "label": "mano de obra desechable",
+    "pos": [
+     125,
+     400
+    ]
+   },
+   {
+    "title": "Enseñar y aprender",
+    "tag": "EDUCACIÓN",
+    "flow": 2,
+    "quotes": [
+     4,
+     5,
+     15
+    ],
+    "key": "ensenar",
+    "label": "enseñar, no asustar",
+    "pos": [
+     350,
+     62
+    ]
+   },
+   {
+    "title": "Persistir y sobrevivir",
+    "tag": "RESISTENCIA",
+    "flow": 3,
+    "quotes": [
+     6,
+     13,
+     17,
+     11
+    ],
+    "key": "persistir",
+    "label": "aguantar no basta",
+    "pos": [
+     634,
+     62
+    ]
+   },
+   {
+    "title": "Comunidad y aliados",
+    "tag": "COMUNIDAD",
+    "flow": 4,
+    "quotes": [
+     20,
+     21
+    ],
+    "key": "comunidad",
+    "label": "quien se queda",
+    "pos": [
+     859,
+     130
+    ]
+   },
+   {
+    "title": "Destino: otro lugar",
+    "tag": "DESTINO",
+    "flow": 5,
+    "quotes": [
+     7,
+     9
+    ],
+    "key": "destino",
+    "label": "mundos extrasolares",
+    "pos": [
+     859,
+     400
+    ]
+   }
+  ],
+  "pie": "24 citas literales de tus subrayados · Octavia E. Butler, La parábola del sembrador (Capitán Swing, 2021)"
+ },
+ "obras": {
+  "titulo": "Otras obras de Octavia E. Butler",
+  "nota": "Estados del lector según tu mapa Butler (butler.html). Semilla salvaje: pendiente de que confirmes si ya la tienes. Fledgling: sin edición en castellano según ISFDB.",
+  "items": [
+   {
+    "cover": "obras/00.jpg",
+    "title": "La parábola de los talentos",
+    "orig": "Parable of the Talents · 1998 · Earthseed 2",
+    "line": "Continuación: Lauren funda Bellota y la comunidad Semilla Terrestre resiste a la teocracia de Jarret.",
+    "es": "Capitán Swing, 2021",
+    "me": "✓ Leído",
+    "url": "https://capitanswing.com/libros/la-parabola-de-los-talentos/",
+    "url_label": "capitanswing.com · La parábola de los talentos"
+   },
+   {
+    "cover": "obras/01.jpg",
+    "title": "Parentesco",
+    "orig": "Kindred · 1979",
+    "line": "Dana, escritora negra de 1976, viaja una y otra vez a una plantación esclavista de Maryland.",
+    "es": "Capitán Swing, 2018",
+    "me": "▶ Siguiente lectura",
+    "url": "https://capitanswing.com/libros/parentesco/",
+    "url_label": "capitanswing.com · Parentesco"
+   },
+   {
+    "cover": "obras/02.png",
+    "title": "Parentesco (novela gráfica)",
+    "orig": "Kindred: A Graphic Novel Adaptation · 2017 · Duffy & Jennings",
+    "line": "Adaptación en cómic de Parentesco; premio Bram Stoker 2018 a la mejor novela gráfica.",
+    "es": "Anaya Multimedia, 2019",
+    "me": "✦ Por descubrir",
+    "url": "https://traficantes.org/libros/parentesco-0",
+    "url_label": "traficantes.org · Parentesco (novela gráfica)"
+   },
+   {
+    "cover": "obras/03.png",
+    "title": "Hija de sangre y otros relatos",
+    "orig": "Bloodchild and Other Stories · 1995",
+    "line": "Siete relatos y dos ensayos; incluye «Hija de sangre» (Hugo y Nebula) y «Sonidos de habla» (Hugo).",
+    "es": "consonni, 2020",
+    "me": "✦ Por descubrir",
+    "url": "https://www.consonni.org/es/publicaciones/hija-de-sangre-y-otros-relatos",
+    "url_label": "consonni.org · Hija de sangre"
+   },
+   {
+    "cover": "obras/04.jpg",
+    "title": "La estirpe de Lilith (Xenogénesis)",
+    "orig": "Lilith's Brood · 1987–1989 · trilogía",
+    "line": "Tras una guerra nuclear, los oankali rescatan a la humanidad a cambio de mezclarse genéticamente con ella.",
+    "es": "Nova, 2021 (un volumen)",
+    "me": "✦ Por descubrir",
+    "url": "https://www.penguinlibros.com/es/libros-de-ciencia-ficcion/238016-libro-la-estirpe-de-lilith-trilogia-xenogenesis-9788418037108",
+    "url_label": "penguinlibros.com · La estirpe de Lilith"
+   },
+   {
+    "cover": "obras/05.jpg",
+    "title": "Semilla salvaje",
+    "orig": "Wild Seed · 1980 · Saga del Tejido 1",
+    "line": "Doro, inmortal que roba cuerpos, y Anyanwu, sanadora cambiaformas, se enfrentan durante siglos.",
+    "es": "consonni, 19 oct 2026",
+    "me": "? Por confirmar si lo tienes",
+    "url": "https://www.consonni.org/es/publicaciones/semilla-salvaje",
+    "url_label": "consonni.org · Semilla salvaje"
+   },
+   {
+    "cover": "",
+    "title": "Sumo tejedor",
+    "orig": "Patternmaster · 1976 · Saga del Tejido",
+    "line": "Su primera novela publicada; consonni la anuncia junto a Nuevo linaje y Arca para próximos años.",
+    "es": "Anunciada, sin fecha",
+    "me": "✦ Por descubrir",
+    "url": "https://distopolis.com/consonni-anuncia-para-el-lunes-19-de-octubre-la-publicacion-en-espana-de-la-novela-semilla-salvaje-de-octavia-e-butler-primera-entrega-de-la-saga-del-tejido-inedita-en-nuestro-idioma-y-que-narra-un",
+    "url_label": "distopolis.com · anuncio Saga del Tejido"
+   },
+   {
+    "cover": "",
+    "title": "Fledgling",
+    "orig": "Fledgling · 2005 · última novela",
+    "line": "Una vampira de aspecto infantil y amnésica reconstruye su identidad y su comunidad simbiótica.",
+    "es": "Sin edición en castellano",
+    "me": "Sin edición",
+    "url": "https://www.isfdb.org/cgi-bin/title.cgi?171580",
+    "url_label": "isfdb.org · Fledgling (ediciones)"
+   }
+  ]
+ }
+}
