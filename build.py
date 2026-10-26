@@ -10,7 +10,7 @@ def citas(p):
     out = {}
     for line in p.read_text(encoding="utf-8").splitlines():
         m = re.match(r"^(\d+)\. (.*)$", line)
-        if m: out[int(m[1])] = MARCA.sub("", m[2])
+        if m: out[int(m[1])] = MARCA.sub("", m[2]).replace("\\n", "\n")  # \n literal = salto de línea del original
     if not out:  # formato sin numerar: una cita por línea, en orden (1, 2, 3...)
         out = {i+1: MARCA.sub("", l) for i, l in enumerate(x for x in p.read_text(encoding="utf-8").splitlines() if x.strip())}
     return out
@@ -65,6 +65,10 @@ def build():
                 return f'<div class="obra">{img}<div><b>{E(w["title"])}</b> <span class="est">{E(w.get("me",""))}</span><small>{E(w.get("orig",""))} · {E(w.get("es",""))}</small><p>{E(w.get("line",""))}</p>{url}</div></div>'
             ramas.append(nodo(E(o["titulo"]), [f'<li>{ob(w)}</li>' for w in o["items"]], "rama sec"))
             obras_html = f'<section class="sec"><h2>{E(o["titulo"])}</h2><div class="obras">' + "".join(ob(w) for w in o["items"]) + f'</div><p class="nota">{E(o["nota"])}</p></section>'
+        v = b.get("vision")  # opcional: lectura de BookBot (no son citas de Miguel)
+        if v:
+            ramas.append(nodo("Visión de BookBot", [nodo(f'<span class="txt"><b>{E(v["resumen"][0])}</b> {E(v["resumen"][1])}</span>', [])] + [nodo(f'<span class="txt"><b>{E(c[0])}</b> {E(c[1])}</span>', []) for c in v["conexiones"]] + [nodo(f'<span class="txt">❓ {E(q)}</span>', []) for q in v["preguntas"]], "rama sec"))
+            tarjetas += f'<section class="sec vision"><div class="kick">{E(v["kicker"])}</div><h2>{E(v["titulo"])}</h2><p><b>{E(v["resumen"][0])}</b> {E(v["resumen"][1])}</p><p><b>{E(v["conexiones_titulo"])}</b></p><ul>' + "".join(f'<li><b>{E(c[0])}</b> {E(c[1])}</li>' for c in v["conexiones"]) + f'</ul><p><b>{E(v["preguntas_titulo"])}</b></p><ol>' + "".join(f'<li>{E(q)}</li>' for q in v["preguntas"]) + '</ol></section>'
         if s: tarjetas += obras_html
         mapa = f'<div class="controles"><button data-accion="abrir">Abrir todo</button><button data-accion="cerrar">Cerrar todo</button></div><ul class="mapa"><li class="abierto raiz"><button class="nodo centro" aria-expanded="true">{centro}</button><ul>{"".join(ramas)}</ul></li></ul>'
         body = hero + desc + '<div class="pestanas"><button class="activa" data-vista="mapa">🧠 Mapa</button><button data-vista="tarjetas">🃏 Tarjetas</button></div>' + f'<div class="vista" id="v-mapa">{hilo_html if s else ""}{mapa}</div><div class="vista oculto" id="v-tarjetas">{tarjetas}</div>'
