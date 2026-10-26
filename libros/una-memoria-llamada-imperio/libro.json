@@ -1,0 +1,160 @@
+{
+ "titulo": "Una memoria llamada imperio",
+ "subtitulo": "Nocturna, 2024 · trad. Ismael Attrache · Teixcalaan, libro 1 · tus 6 subrayados, literales y agrupados por temas",
+ "autor": "Arkady Martine",
+ "etiquetas": [
+  "IA como capa bidireccional",
+  "Mentoría",
+  "Memoria colectiva",
+  "Aprendizaje",
+  "Futuros"
+ ],
+ "portada": "portada.jpg",
+ "datos": [],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "No subrayas la intriga palaciega sino la tecnología del imago, y la lees como un manual de equipos humanos e IA: memoria que se transmite y se cura, habilidades que se comparten y una mente que proyecta futuros. La poesía cierra el círculo como forma de aprender."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "El imago · memoria que se hereda",
+  "nucleo_sub": "4 ramas · 6 subrayados · 3 notas tuyas · hilo: Herencia → Mente → Talento → Poesía",
+  "hilo": [
+   [
+    "Herencia",
+    "entre portadores"
+   ],
+   [
+    "Instinto",
+    "lo no aprendido"
+   ],
+   [
+    "Mente",
+    "mapa invertido"
+   ],
+   [
+    "Talento",
+    "habilidad prestada"
+   ],
+   [
+    "Poesía",
+    "aprender creando"
+   ]
+  ],
+  "favorita": 3,
+  "archivo_notas": "notas.txt",
+  "ramas": [
+   {
+    "key": "imago",
+    "title": "El imago heredado",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     1,
+     2
+    ],
+    "label": "herencia entre portadores",
+    "pos": [
+     492,
+     200
+    ]
+   },
+   {
+    "key": "mente",
+    "title": "La mente como mapa",
+    "tag": "CONSCIENCIA",
+    "flow": 1,
+    "quotes": [
+     3
+    ],
+    "label": "pasado → futuros",
+    "pos": [
+     160,
+     90
+    ]
+   },
+   {
+    "key": "talento",
+    "title": "Habilidades compartidas",
+    "tag": "AUMENTO",
+    "flow": 2,
+    "quotes": [
+     4,
+     5
+    ],
+    "label": "habilidad prestada",
+    "pos": [
+     824,
+     90
+    ]
+   },
+   {
+    "key": "poesia",
+    "title": "Poesía y aprendizaje",
+    "tag": "CULTURA",
+    "flow": 3,
+    "quotes": [
+     6
+    ],
+    "label": "aprender creando",
+    "pos": [
+     492,
+     370
+    ]
+   }
+  ],
+  "pie": "6 citas literales de tus subrayados · Arkady Martine, Una memoria llamada imperio (Nocturna, 2024)"
+ },
+ "obras": {
+  "titulo": "Otras obras de Arkady Martine",
+  "nota": "Una desolación llamada paz: Nocturna la sigue anunciando «en preparación», sin fecha. La casa de la rosa ya está en castellano (Nocturna, feb. 2026).",
+  "items": [
+   {
+    "cover": "obras/martine-dp.jpg",
+    "title": "Una desolación llamada paz",
+    "orig": "A Desolation Called Peace · 2021 · Teixcalaan 2 · Hugo 2022",
+    "line": "Cierre de la bilogía: Mahit y Tres Hojas de Helecho Marino ante una especie alienígena que nadie entiende; primer contacto y lenguaje.",
+    "es": "Nocturna · en preparación",
+    "me": "⏳ La esperas · ficha en tu web",
+    "url": "https://miguelinfantes-mainjobs.github.io/mis-libros/libros/una-desolacion-llamada-paz/index.html",
+    "url_label": "Mis libros · Una desolación llamada paz"
+   },
+   {
+    "cover": "obras/martine-rosa.jpg",
+    "title": "La casa de la rosa",
+    "orig": "Rose/House · 2023 · novela corta",
+    "line": "Misterio de habitación cerrada en una casa que ES una inteligencia artificial: IA y arquitectura.",
+    "es": "Nocturna, 2026 · 128 págs. · 15 €",
+    "me": "Sin leer · encaja con tu interés en IA",
+    "url": "https://tienda.nocturnaediciones.com/products/la-casa-de-la-rosa-arkady-martine",
+    "url_label": "tienda.nocturnaediciones.com · La casa de la rosa"
+   },
+   {
+    "title": "Bilogía Teixcalaan (serie)",
+    "orig": "A Memory Called Empire (2019) · A Desolation Called Peace (2021)",
+    "line": "Ficha de la serie con valoraciones: 4,10 y 4,29 en Goodreads.",
+    "es": "Libro 1 en Nocturna (2024)",
+    "me": "✓ Libro 1 leído en 2024",
+    "url": "https://www.goodreads.com/series/233352-teixcalaan",
+    "url_label": "goodreads.com · Teixcalaan"
+   },
+   {
+    "title": "Bibliografía completa (ISFDB)",
+    "orig": "Relatos y ensayos",
+    "line": "Relatos y no ficción de la autora, la mayoría solo en inglés.",
+    "es": "Mayoría sin traducir",
+    "me": "Para explorar",
+    "url": "https://www.isfdb.org/cgi-bin/ea.cgi?Arkady_Martine",
+    "url_label": "isfdb.org · Arkady Martine"
+   }
+  ]
+ }
+}
