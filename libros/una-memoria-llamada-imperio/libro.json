@@ -10,7 +10,28 @@
   "Futuros"
  ],
  "portada": "portada.jpg",
- "datos": [],
+ "datos": [
+  {
+   "valor": "2019",
+   "texto": "original: A Memory Called Empire (Tor, 2019)"
+  },
+  {
+   "valor": "🏆 Hugo 2020",
+   "texto": "mejor novela"
+  },
+  {
+   "valor": "2024",
+   "texto": "Nocturna, trad. Ismael Attrache · papel 19,90 €"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "Apple Books España, 9,99 € (sept. 2024)"
+  },
+  {
+   "valor": "4,10 ★",
+   "texto": "Goodreads (≈78.500), serie Teixcalaan"
+  }
+ ],
  "secciones": [
   {
    "titulo": "Lo que subrayas",
