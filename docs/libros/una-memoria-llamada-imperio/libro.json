@@ -177,5 +177,38 @@
     "url_label": "isfdb.org · Arkady Martine"
    }
   ]
+ },
+ "vision": {
+  "kicker": "Visión de BookBot · lectura propia, no son tus citas ni tus notas",
+  "titulo": "Qué dicen juntos tus 6 subrayados",
+  "resumen": [
+   "Una tecnología de la herencia.",
+   "Leídos en orden, tus subrayados cuentan cómo funciona el imago. Es una cadena de memoria que pasa de un portador a otro (nº 1). Hace de repositorio de lo que la nueva portadora no tuvo tiempo de aprender (nº 2). Une dos mapas del pasado que proyectan juntos «futuros» (nº 3). Y entrega talentos que florecen dentro sin esfuerzo consciente (nº 4–5). La poesía (nº 6) es la otra memoria de Teixcalaan: la cultura como herencia, y quien domina la palabra domina el imperio."
+  ],
+  "conexiones_titulo": "Cómo conecta con tus intereses.",
+  "conexiones": [
+   [
+    "IA como capa de datos bidireccional:",
+    "tu nota al nº 1 convierte el imago en una IA acoplada a la persona. No es una herramienta externa: es un copiloto que hereda, aprende y modifica a quien lo lleva. La pregunta de fondo es de quién es la identidad resultante."
+   ],
+   [
+    "Mentoría de juniors:",
+    "tu nota al nº 2 entiende la memoria institucional como algo que hay que curar, no solo transferir. Es lo que Lsel hace con sus imagos y lo que hace un buen equipo con su conocimiento tácito."
+   ],
+   [
+    "Inconsciente colectivo y futuros:",
+    "el «mapa más vasto y proyectado de los futuros» (nº 3) es casi una definición de prospectiva. Juntar memorias distintas amplía los futuros que se pueden imaginar, como en Tiempo de futuros."
+   ],
+   [
+    "Aprender creando:",
+    "tu nota al nº 6 lee la poesía como práctica de aprendizaje. En Teixcalaan además es poder político y prueba de pertenencia."
+   ]
+  ],
+  "preguntas_titulo": "Preguntas para seguir leyendo",
+  "preguntas": [
+   "Si el imago está desactualizado (15 años) o saboteado, ¿qué pasa cuando la «capa de datos» falla o miente? ¿Cómo lo aplicarías a una IA de empresa?",
+   "¿Quién decide qué memorias se conservan en la cadena? ¿Quién «cura» y con qué sesgos?",
+   "Mahit ama la poesía del imperio que amenaza a su estación: ¿se puede aprender una cultura sin que te absorba?"
+  ]
  }
 }

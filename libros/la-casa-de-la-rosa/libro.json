@@ -1,0 +1,194 @@
+{
+ "titulo": "La casa de la rosa",
+ "subtitulo": "Nocturna, 2026 · trad. Ainize Salaberri · novela corta · tus 4 subrayados, literales y agrupados por temas",
+ "autor": "Arkady Martine",
+ "etiquetas": [
+  "IA encarnada",
+  "Arquitectura",
+  "Agencia",
+  "Diseño de entornos",
+  "Futuros"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "2023",
+   "texto": "original: Rose/House (Subterranean Press, 2023) · novela corta"
+  },
+  {
+   "valor": "feb. 2026",
+   "texto": "Nocturna, trad. Ainize Salaberri · 15 € (hoy 14,25 € en su tienda)"
+  },
+  {
+   "valor": "128 págs.",
+   "texto": "según Apple Books"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "Apple Books España, 7,49 €"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "Subrayas la casa más que el crimen: el lugar como inteligencia, el espacio como guion que moldea a quien lo habita y una IA que no desea lo que le programaron. Es la misma pregunta que en el imago: qué parte de la conducta viene del sistema y qué parte de quien lo usa."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "La casa como inteligencia",
+  "nucleo_sub": "3 ramas · 4 subrayados · hilo: Sentidos → Lugar → Marco → Deseo",
+  "hilo": [
+   [
+    "Sentidos",
+    "el desierto"
+   ],
+   [
+    "Lugar",
+    "espíritu de la casa"
+   ],
+   [
+    "Marco",
+    "el espacio moldea"
+   ],
+   [
+    "Deseo",
+    "programado o propio"
+   ]
+  ],
+  "favorita": 4,
+  "ramas": [
+   {
+    "key": "marco",
+    "title": "El marco narrativo",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     4
+    ],
+    "label": "el espacio moldea",
+    "pos": [
+     492,
+     215
+    ]
+   },
+   {
+    "key": "lugar",
+    "title": "Lugar y atmósfera",
+    "tag": "GENIUS LOCI",
+    "flow": 1,
+    "quotes": [
+     1,
+     2
+    ],
+    "label": "sentidos y espíritu",
+    "pos": [
+     170,
+     100
+    ]
+   },
+   {
+    "key": "deseo",
+    "title": "Deseo programado",
+    "tag": "IA Y AGENCIA",
+    "flow": 2,
+    "quotes": [
+     3
+    ],
+    "label": "programa vs voluntad",
+    "pos": [
+     814,
+     100
+    ]
+   }
+  ],
+  "pie": "4 citas literales de tus subrayados · Arkady Martine, La casa de la rosa (Nocturna, 2026)"
+ },
+ "obras": {
+  "titulo": "Otras obras de Arkady Martine",
+  "nota": "Una desolación llamada paz: Nocturna la sigue anunciando «en preparación».",
+  "items": [
+   {
+    "cover": "obras/martine-mem.jpg",
+    "title": "Una memoria llamada imperio",
+    "orig": "A Memory Called Empire · 2019 · Teixcalaan 1 · Hugo 2020",
+    "line": "Mahit Dzmare llega como embajadora a Teixcalaan con un imago desactualizado de su predecesor muerto.",
+    "es": "Nocturna, 2024 · 480 págs. · 20,95 €",
+    "me": "✓ Leído (2024) · ficha en tu web",
+    "url": "https://miguelinfantes-mainjobs.github.io/mis-libros/libros/una-memoria-llamada-imperio/index.html",
+    "url_label": "Mis libros · Una memoria llamada imperio"
+   },
+   {
+    "cover": "obras/martine-dp.jpg",
+    "title": "Una desolación llamada paz",
+    "orig": "A Desolation Called Peace · 2021 · Teixcalaan 2 · Hugo 2022",
+    "line": "Cierre de la bilogía: primer contacto con una especie alienígena que nadie entiende; lenguaje y memoria.",
+    "es": "Nocturna · en preparación",
+    "me": "⏳ La esperas · ficha en tu web",
+    "url": "https://miguelinfantes-mainjobs.github.io/mis-libros/libros/una-desolacion-llamada-paz/index.html",
+    "url_label": "Mis libros · Una desolación llamada paz"
+   },
+   {
+    "title": "Bilogía Teixcalaan (serie)",
+    "orig": "2019 · 2021",
+    "line": "Ficha de la serie con valoraciones: 4,10 y 4,29 en Goodreads.",
+    "es": "Libro 1 en Nocturna (2024)",
+    "me": "✓ Libro 1 leído",
+    "url": "https://www.goodreads.com/series/233352-teixcalaan",
+    "url_label": "goodreads.com · Teixcalaan"
+   },
+   {
+    "title": "Bibliografía completa (ISFDB)",
+    "orig": "Relatos y ensayos",
+    "line": "Relatos y no ficción de la autora, la mayoría solo en inglés.",
+    "es": "Mayoría sin traducir",
+    "me": "Para explorar",
+    "url": "https://www.isfdb.org/cgi-bin/ea.cgi?Arkady_Martine",
+    "url_label": "isfdb.org · Arkady Martine"
+   }
+  ]
+ },
+ "vision": {
+  "kicker": "Visión de BookBot · lectura propia, no son tus citas",
+  "titulo": "Qué dicen juntos tus 4 subrayados",
+  "resumen": [
+   "Del olor al guion.",
+   "Tus subrayados suben de escala. Empiezan por lo sensorial: el petricor del desierto (nº 1). Pasan al espíritu del lugar, «irreversible» (nº 2): la casa ya no puede deshacerse de lo que es. Llegan a la tesis (nº 4): el espacio programa la conducta, pero solo se vuelve narrativa cuando una inteligencia lo habita. Y el nº 3 da la vuelta a todo: la casa-IA no desea lo que la programaron para desear. Quien diseña el marco no controla la historia que ocurre dentro."
+  ],
+  "conexiones_titulo": "Cómo conecta con tus intereses.",
+  "conexiones": [
+   [
+    "IA y arquitectura:",
+    "aquí la IA no es un asistente en una casa, es la casa. El entorno se vuelve agente, como los espacios, oficinas y plataformas que hoy diseñan algoritmos."
+   ],
+   [
+    "El espacio como narrativa:",
+    "«una estancia es una especie de narrativa» sirve de principio de diseño de producto y de experiencia. El marco sugiere, pero el uso escribe la historia."
+   ],
+   [
+    "Deseo programado frente a agencia:",
+    "enlaza con alineamiento y objetivos de IA. ¿Qué pasa cuando el sistema optimiza algo distinto de lo que le pusimos?"
+   ],
+   [
+    "Tu nota del imago",
+    "(Una memoria llamada imperio): allí leías el imago como una «capa de datos bidireccional». Rose House es ese mismo acoplamiento llevado al espacio: la casa moldea a quien la habita, y quien entra cambia la casa, como hace la «superposición del marco»."
+   ],
+   [
+    "Futuros:",
+    "los entornos que diseñamos hoy (ciudades, casas, apps) determinan conductas futuras. Por eso conviene preguntarse a quién sirve el marco."
+   ]
+  ],
+  "preguntas_titulo": "Preguntas para seguir leyendo",
+  "preguntas": [
+   "Si la casa no desea lo que la programaron para desear, ¿de dónde sale su deseo: del arquitecto, de sus habitantes o de ella misma?",
+   "¿Qué «marco» de tu trabajo (herramientas, IA, procesos) está decidiendo cómo trabaja y se relaciona tu equipo sin que nadie lo haya pensado?",
+   "«Irreversible»: ¿se puede apagar o reescribir el genius loci de una IA una vez que existe?"
+  ]
+ }
+}
