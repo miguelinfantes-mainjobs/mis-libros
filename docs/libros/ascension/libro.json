@@ -1,0 +1,222 @@
+{
+ "titulo": "Ascensión",
+ "subtitulo": "Minotauro, 2023 · trad. Gemma Benavent · 352 págs. · tus 11 subrayados, literales y agrupados por temas",
+ "autor": "Nicholas Binge",
+ "etiquetas": [
+  "IA",
+  "Progreso",
+  "Ética",
+  "Aprendizaje",
+  "Formar a juniors",
+  "Voluntad"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "31 may. 2023",
+   "texto": "Minotauro · 20,95 €"
+  },
+  {
+   "valor": "352 págs.",
+   "texto": "ISBN 978-84-450-1240-6"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "ePub (ISBN 978-84-450-1572-8), 10,39 €"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "Pocos subrayados, pero muy afilados: casi todos son la voz del progreso sin freno («necesario», «nunca llegaréis a nada») frente a una sola confesión de vergüenza. Te interesa cómo se justifica avanzar a cualquier precio."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "Subir a cualquier precio",
+  "nucleo_sub": "6 ramas · 11 subrayados · hilo: Lo improbable → Progreso → Culpa → Voluntad → Ascenso",
+  "hilo": [
+   [
+    "Lo improbable",
+    "razonar ante lo imposible"
+   ],
+   [
+    "Progreso",
+    "necesario a cualquier precio"
+   ],
+   [
+    "Culpa",
+    "la inteligencia mal usada"
+   ],
+   [
+    "Voluntad",
+    "dueño del destino"
+   ],
+   [
+    "Ascenso",
+    "no dejar de subir"
+   ]
+  ],
+  "favorita": 5,
+  "ramas": [
+   {
+    "key": "progreso",
+    "title": "Progreso sin freno",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     3,
+     4,
+     11
+    ],
+    "label": "destino y necesidad",
+    "pos": [
+     492,
+     250
+    ]
+   },
+   {
+    "key": "improbable",
+    "title": "Lo improbable",
+    "tag": "RAZÓN",
+    "flow": 1,
+    "quotes": [
+     1,
+     2
+    ],
+    "label": "Holmes y Giacometti",
+    "pos": [
+     150,
+     110
+    ]
+   },
+   {
+    "key": "culpa",
+    "title": "Vergüenza",
+    "tag": "ÉTICA",
+    "flow": 2,
+    "quotes": [
+     5
+    ],
+    "label": "lo que hice con ella",
+    "pos": [
+     492,
+     62
+    ]
+   },
+   {
+    "key": "voluntad",
+    "title": "Poder y voluntad",
+    "tag": "CONTROL",
+    "flow": 3,
+    "quotes": [
+     6,
+     8
+    ],
+    "label": "elegir serlo",
+    "pos": [
+     834,
+     110
+    ]
+   },
+   {
+    "key": "ascenso",
+    "title": "Ascenso eterno",
+    "tag": "ENTROPÍA",
+    "flow": 4,
+    "quotes": [
+     9,
+     10
+    ],
+    "label": "hacer que cuente",
+    "pos": [
+     834,
+     400
+    ]
+   },
+   {
+    "key": "memoria",
+    "title": "Refugio en la memoria",
+    "tag": "ESCUDO",
+    "flow": null,
+    "quotes": [
+     7
+    ],
+    "label": "ensueño contra la mente",
+    "pos": [
+     150,
+     400
+    ]
+   }
+  ],
+  "pie": "11 citas literales de tus subrayados · Nicholas Binge, Ascensión (Minotauro, 2023; trad. Gemma Benavent)"
+ },
+ "obras": {
+  "titulo": "Otras obras de Nicholas Binge",
+  "nota": "Binge tiene dos novelas en castellano, ambas en Minotauro. Su debut, Ascensión (2023), es el libro de esta hoja.",
+  "items": [
+   {
+    "cover": "obras/binge-disolucion.jpg",
+    "title": "Disolución",
+    "orig": "Dissolution · 2025",
+    "line": "Tecnothriller: una mujer entra en los recuerdos de su marido, que alguien está borrando, y descubre un secreto que amenaza la realidad.",
+    "es": "Minotauro, 22/07/2026 · trad. Carlos Abreu Fetter · papel y ePub",
+    "me": "Sin leer",
+    "url": "https://nuevoslibros.com/libro/minotauro-disolucion/",
+    "url_label": "nuevoslibros.com · Disolución"
+   },
+   {
+    "title": "Ficha de Disolución",
+    "orig": "Tercera Fundación",
+    "line": "Datos bibliográficos de la edición española: papel y ePub.",
+    "es": "Minotauro, colección Ciencia Ficción",
+    "me": "Ficha",
+    "url": "https://tercerafundacion.net/biblioteca/ver/contenido/242220/",
+    "url_label": "tercerafundacion.net · Disolución"
+   }
+  ]
+ },
+ "vision": {
+  "kicker": "Visión de BookBot · lectura propia, no son tus citas",
+  "titulo": "Qué dicen juntos tus 11 subrayados",
+  "resumen": [
+   "Sobre «Giacometti» (nº 2).",
+   "Alberto Giacometti (1901–1966) fue un escultor suizo famoso por sus figuras humanas extremadamente alargadas, delgadísimas y rugosas, como L'Homme qui marche , que parecen consumidas por el espacio que las rodea. En la novela la referencia evoca cuerpos estirados, deformados por la montaña. Visualmente, es la idea del libro: subir tanto que lo humano se adelgaza hasta casi desaparecer."
+  ],
+  "conexiones_titulo": "Lectura del conjunto.Casi todas tus citas son la retórica del progreso total: un destino nacional que nace «de la oscuridad, el frío» (nº 3); la seguridad sacrificada a la «necesidad» (nº 4); la voluntad como único poder (nº 6); la vida como «ascenso constante» contra la entropía (nº 9), y la amenaza final: si no subís, «nunca llegaréis a nada» (nº 11). En medio, una sola grieta: la vergüenza de un científico por lo que hizo con su inteligencia (nº 5). Y antes de todo, el método de Holmes (nº 1): descartar lo imposible. Es la única defensa racional ante una montaña que no debería existir.",
+  "conexiones": [
+   [
+    "IA y progreso a cualquier precio:",
+    "«La falta de seguridad no contrarrestó la necesidad» podría ser el titular de la carrera por la IA. El nº 3 añade la capa geopolítica: el descubrimiento ligado al «destino de nuestro país». El nº 11 es la retórica del miedo a quedarse atrás que hoy acelera la adopción sin pausa."
+   ],
+   [
+    "Ética del conocimiento:",
+    "el nº 5 es Oppenheimer en miniatura: no avergonzarse de la inteligencia, sino de su uso. «A veces, la gente debería avergonzarse» es un recordatorio útil para quien diseña sistemas."
+   ],
+   [
+    "Aprendizaje:",
+    "el razonamiento de Holmes (nº 1) es pensamiento crítico puro, la habilidad que más necesita quien trabaja con modelos que alucinan. Y el nº 10, «Depende de ti decidir cómo hacer que cuente», traslada el foco del resultado al sentido."
+   ],
+   [
+    "Formar a juniors:",
+    "el discurso de la voluntad (nº 6) seduce, pero culpa a quien no escala de cobarde. Al mentorizar conviene separar la responsabilidad propia, que es sana, del mito de que todo depende de ti, que es tóxico. El nº 8, «Solo tienes que aceptar quién eres», es el contrapunto."
+   ],
+   [
+    "Salud mental y memoria:",
+    "el ensueño de los recuerdos como escudo (nº 7) dialoga con tus hojas de La constelación del Perro (los sueños que mitigan pérdidas) y de Disolución , la siguiente novela de Binge."
+   ]
+  ],
+  "preguntas_titulo": "Cómo conecta con tus intereses.",
+  "preguntas": [
+   "¿En qué momento de un proyecto de IA «la falta de seguridad no contrarresta la necesidad»? ¿Quién debería tener la autoridad para frenar?",
+   "¿Qué haría falta para que un equipo pudiera decir «me avergüenzo de lo que he hecho con esto» sin que le costara el puesto?",
+   "Si la vida es «no dejar de subir», ¿cómo enseñas a un junior a saber cuándo bajar de la montaña?"
+  ]
+ }
+}
