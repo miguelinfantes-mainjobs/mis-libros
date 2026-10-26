@@ -1,0 +1,244 @@
+{
+ "titulo": "Monje y robot",
+ "subtitulo": "Crononauta, 2023 · trad. Carla Bataller Estruch · 264 págs. · tus 18 subrayados, literales y agrupados por temas",
+ "autor": "Becky Chambers",
+ "etiquetas": [
+  "IA y consciencia",
+  "Aprendizaje",
+  "Formar a juniors",
+  "Propósito",
+  "Ecosistemas",
+  "Cambio"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "30 mar. 2023",
+   "texto": "Crononauta · 19,00 €"
+  },
+  {
+   "valor": "264 págs.",
+   "texto": "ISBN 978-84-126617-0-5"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "ePub, Casa del Libro, 7,60 €"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "Subrayas el libro como una conversación sobre mentes, la humana y la artificial: de dónde salen, qué las frena (los vestigios) y si necesitan un propósito para valer algo. Acabas en la imagen del cuidado: un lienzo y unas copas que dejan espacio para que los demás crezcan."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "¿Qué necesitamos?",
+  "nucleo_sub": "6 ramas · 18 subrayados · hilo: Partir → Vestigios → Asombro → Despertar → Espacio",
+  "hilo": [
+   [
+    "Partir",
+    "la idea que pica"
+   ],
+   [
+    "Vestigios",
+    "moderación y miedo"
+   ],
+   [
+    "Asombro",
+    "átomos que se perciben"
+   ],
+   [
+    "Despertar",
+    "la consciencia como adaptación"
+   ],
+   [
+    "Espacio",
+    "lienzo y copas tímidas"
+   ]
+  ],
+  "favorita": 10,
+  "ramas": [
+   {
+    "key": "proposito",
+    "title": "Propósito o permiso",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     9,
+     10
+    ],
+    "label": "vivir sin justificarse",
+    "pos": [
+     492,
+     250
+    ]
+   },
+   {
+    "key": "cambio",
+    "title": "Cambio y casa",
+    "tag": "PARTIR / VOLVER",
+    "flow": 1,
+    "quotes": [
+     1,
+     2,
+     3,
+     16
+    ],
+    "label": "irse cambia para siempre",
+    "pos": [
+     150,
+     110
+    ]
+   },
+   {
+    "key": "vestigios",
+    "title": "Vestigios y moderación",
+    "tag": "ECOSISTEMA",
+    "flow": 2,
+    "quotes": [
+     4,
+     5,
+     6,
+     7
+    ],
+    "label": "más listos que el instinto",
+    "pos": [
+     492,
+     62
+    ]
+   },
+   {
+    "key": "asombro",
+    "title": "Consciencia como asombro",
+    "tag": "MARAVILLA",
+    "flow": 3,
+    "quotes": [
+     8
+    ],
+    "label": "átomos bien dispuestos",
+    "pos": [
+     834,
+     110
+    ]
+   },
+   {
+    "key": "origen",
+    "title": "Despertar de los robots",
+    "tag": "ADAPTACIÓN",
+    "flow": 4,
+    "quotes": [
+     11,
+     12,
+     13,
+     14
+    ],
+    "label": "la necesidad crea mente",
+    "pos": [
+     834,
+     400
+    ]
+   },
+   {
+    "key": "espacio",
+    "title": "Dejar espacio",
+    "tag": "LIENZO / COPAS",
+    "flow": 5,
+    "quotes": [
+     15,
+     17,
+     18
+    ],
+    "label": "crecer sin invadir",
+    "pos": [
+     150,
+     400
+    ]
+   }
+  ],
+  "pie": "18 citas literales de tus subrayados · Becky Chambers, Monje y robot (Crononauta, 2023; trad. Carla Bataller Estruch)"
+ },
+ "obras": {
+  "titulo": "Otras obras de Becky Chambers en español",
+  "nota": "«Plegaria por la timidez de los árboles» (la secuela) ya va incluida en este ómnibus junto a «Salmo por quienes se construyeron en la naturaleza». La serie Wayfarers sigue con «Una órbita cerrada y compartida» (Insólita, 2020).",
+  "items": [
+   {
+    "cover": "obras/chambers-aprender.jpg",
+    "title": "Para aprender, si la suerte nos sonríe",
+    "orig": "To Be Taught, if Fortunate · 2019",
+    "line": "Astronautas que se modifican para explorar exoplanetas y documentan el asombro. Finalista del Hugo y del Locus.",
+    "es": "Crononauta, 2024 · trad. Pilar Ramírez Tello",
+    "me": "Sin leer",
+    "url": "https://shop.crononauta.es/products/para-aprender-si-la-suerte-nos-sonrie",
+    "url_label": "shop.crononauta.es · Para aprender"
+   },
+   {
+    "cover": "obras/chambers-largo.jpg",
+    "title": "El largo viaje a un pequeño planeta iracundo",
+    "orig": "Wayfarers 1 · 2014",
+    "line": "La tripulación de la Peregrina: una familia elegida en el espacio. Premio Hugo 2019 a la mejor serie.",
+    "es": "Alianza Runas, 2026 (antes Insólita, 2018) · trad. Alexander Páez",
+    "me": "Sin leer",
+    "url": "https://www.alianzaeditorial.es/libro/runas/el-largo-viaje-a-un-pequeno-planeta-iracundo-becky-chambers-9791370092429/",
+    "url_label": "alianzaeditorial.es · El largo viaje"
+   },
+   {
+    "title": "Plegaria por la timidez de los árboles",
+    "orig": "A Prayer for the Crown-Shy · 2022",
+    "line": "La secuela, ya incluida en Monje y robot. Premio Locus 2023.",
+    "es": "Crononauta, 2023 (dentro del ómnibus)",
+    "me": "Leído aquí",
+    "url": "https://es.wikipedia.org/wiki/Plegaria_por_la_timidez_de_los_%C3%A1rboles",
+    "url_label": "es.wikipedia.org · Plegaria"
+   },
+   {
+    "title": "Bibliografía completa",
+    "orig": "Wayfarers, Monk & Robot, novelas cortas",
+    "line": "Incluye Una órbita cerrada y compartida (Wayfarers 2) y el resto de la serie.",
+    "es": "Varias editoriales",
+    "me": "Para explorar",
+    "url": "https://es.wikipedia.org/wiki/Becky_Chambers",
+    "url_label": "es.wikipedia.org · Becky Chambers"
+   }
+  ]
+ },
+ "vision": {
+  "kicker": "Visión de BookBot · lectura propia, no son tus citas",
+  "titulo": "Qué dicen juntos tus 18 subrayados",
+  "resumen": [
+   "Un tratado sobre mentes disfrazado de viaje.",
+   "Tus citas siguen un arco: una idea que pica (nº 2–3) y te obliga a irte (nº 1); una mente que descubre que es más lista que sus vestigios «si elegimos serlo» (nº 5–7); el asombro de ser átomos que se perciben (nº 8); y la pregunta de Onfalina: ¿qué necesidad despertó a los robots (nº 11–13)? El centro es el permiso para vivir sin propósito (nº 9–10). Y el cierre, el lienzo y las copas tímidas: el sentido está en dejar espacio a los demás (nº 15, 17)."
+  ],
+  "conexiones_titulo": "Cómo conecta con tus intereses.",
+  "conexiones": [
+   [
+    "IA:",
+    "los robots rechazan el propósito con el que se diseñaron y los humanos lo respetan (nº 9). Es la inversa del debate sobre alineamiento: ¿qué hacemos si un sistema madura más allá de su objetivo? Y la tesis de que la inteligencia surge de una presión externa (nº 12–13) recuerda al aprendizaje de los modelos, que solo se vuelven capaces cuando los datos y el entorno les obligan a generalizar."
+   ],
+   [
+    "Aprendizaje:",
+    "«más inteligentes que nuestros vestigios… si elegimos serlo». Aprender es, en parte, desaprender reflejos heredados. Y el nº 14 recuerda que pensar cuesta energía, así que hay que diseñar el estudio con pausas."
+   ],
+   [
+    "Formar a juniors:",
+    "el monje no da respuestas, crea «un lienzo para que otras personas se explorasen a sí mismas» (nº 15). La timidez de los árboles (nº 17) es la mentoría ideal: crecer frondoso sin tapar la luz de quien está al lado."
+   ],
+   [
+    "Ecosistemas y equipos:",
+    "la paradoja de la moderación sin mecanismo, salvo el miedo (nº 4), describe los bienes comunes, las organizaciones y también el uso de la IA."
+   ]
+  ],
+  "preguntas_titulo": "Preguntas para seguir leyendo",
+  "preguntas": [
+   "Si un sistema de IA «despertara» y rechazara su propósito, ¿seríamos capaces, como en Panga, de reconstruirlo todo para respetarlo?",
+   "¿Qué «necesidad externa» diseñas para tus juniors, de modo que aprender sea una adaptación y no una obligación?",
+   "En tu equipo, ¿dónde está la frontera de cielo azul? ¿Dónde dejas de crecer tú para que crezca otra persona?"
+  ]
+ }
+}

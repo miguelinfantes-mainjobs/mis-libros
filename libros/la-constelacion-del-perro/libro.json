@@ -1,0 +1,236 @@
+{
+ "titulo": "La constelación del Perro",
+ "subtitulo": "Blackie Books, 2026 · trad. Blanca Rodríguez y Marc Jiménez Buzzi · 312 págs. · tus 25 subrayados, literales y agrupados por temas",
+ "autor": "Peter Heller",
+ "etiquetas": [
+  "Resiliencia",
+  "Aprendizaje",
+  "Formar a juniors",
+  "IA",
+  "Atención",
+  "Duelo"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "3 jun. 2026",
+   "texto": "Blackie Books · 22,00 € (tapa dura)"
+  },
+  {
+   "valor": "312 págs.",
+   "texto": "ISBN 979-13-87748-78-4"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "ePub ISBN 979-13-88154-08-9 · precio en España sin verificar"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "Subrayas la novela como un manual de supervivencia interior: el método frente al caos, el ritual que concentra la atención, los refugios que nos inventamos y la sospecha de que la vida de verdad es esta, no la que estamos esperando."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "Vivir de verdad",
+  "nucleo_sub": "6 ramas · 25 subrayados · hilo: Pérdida → Método → Ritual → Refugio → Duplicidad",
+  "hilo": [
+   [
+    "Pérdida",
+    "lo que no se metaboliza"
+   ],
+   [
+    "Método",
+    "sobrevivir hoy y mañana"
+   ],
+   [
+    "Ritual",
+    "atención y esmero"
+   ],
+   [
+    "Refugio",
+    "sueños y creencias"
+   ],
+   [
+    "Duplicidad",
+    "vida dentro de la muerte"
+   ]
+  ],
+  "favorita": 1,
+  "ramas": [
+   {
+    "key": "verdad",
+    "title": "Vida de verdad",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     14,
+     16,
+     19,
+     24
+    ],
+    "label": "despertar antes del final",
+    "pos": [
+     492,
+     250
+    ]
+   },
+   {
+    "key": "perdida",
+    "title": "Pérdida y duelo",
+    "tag": "DOLOR",
+    "flow": 1,
+    "quotes": [
+     7,
+     9,
+     10,
+     11,
+     12,
+     15
+    ],
+    "label": "cosecha abundante",
+    "pos": [
+     150,
+     110
+    ]
+   },
+   {
+    "key": "metodo",
+    "title": "Sobrevivir con método",
+    "tag": "DISCIPLINA",
+    "flow": 2,
+    "quotes": [
+     1,
+     5,
+     6
+    ],
+    "label": "tiempo y alianzas",
+    "pos": [
+     492,
+     62
+    ]
+   },
+   {
+    "key": "ritual",
+    "title": "Ritual y atención",
+    "tag": "OFICIO",
+    "flow": 3,
+    "quotes": [
+     3,
+     13,
+     20
+    ],
+    "label": "dar lo mejor al pescar",
+    "pos": [
+     834,
+     110
+    ]
+   },
+   {
+    "key": "refugio",
+    "title": "Refugios y sueños",
+    "tag": "CREENCIAS",
+    "flow": 4,
+    "quotes": [
+     2,
+     17,
+     18,
+     21,
+     23
+    ],
+    "label": "redes que no existen",
+    "pos": [
+     834,
+     400
+    ]
+   },
+   {
+    "key": "dual",
+    "title": "Duplicidad",
+    "tag": "VIDA / MUERTE",
+    "flow": 5,
+    "quotes": [
+     4,
+     8,
+     22,
+     25
+    ],
+    "label": "calma y peligro",
+    "pos": [
+     150,
+     400
+    ]
+   }
+  ],
+  "pie": "25 citas literales de tus subrayados · Peter Heller, La constelación del Perro (Blackie Books, 2026; trad. Blanca Rodríguez y Marc Jiménez Buzzi)"
+ },
+ "obras": {
+  "titulo": "Otras obras de Peter Heller",
+  "nota": "En castellano solo está traducida esta novela (Blackie Books, 2026; la película de Ridley Scott se estrena en 2026). Símbol publicó dos en catalán. El resto, por ahora, solo en inglés.",
+  "items": [
+   {
+    "title": "El riu",
+    "orig": "The River · 2019",
+    "line": "Dos amigos en canoa, un incendio forestal y la amistad puesta a prueba.",
+    "es": "Símbol, 2019 · en catalán",
+    "me": "Sin leer",
+    "url": "https://www.casadellibro.com/libro-el-riu/9788415315704/11378627",
+    "url_label": "casadellibro.com · El riu"
+   },
+   {
+    "title": "El guia",
+    "orig": "The Guide · 2021",
+    "line": "Un guía de pesca en un refugio de lujo de Colorado que oculta algo siniestro. Continúa a Jack, de El riu.",
+    "es": "Símbol, 2021 · en catalán",
+    "me": "Sin leer",
+    "url": "https://www.casadellibro.com/libro-el-guia/9788418696022/12614682",
+    "url_label": "casadellibro.com · El guia"
+   },
+   {
+    "title": "The Painter, Celine, The Last Ranger, Burn…",
+    "orig": "Novelas en inglés",
+    "line": "Pintor y pescador (The Painter), detective (Celine), guardabosques (The Last Ranger), secesión (Burn). También Kook, sobre el surf.",
+    "es": "Sin edición en castellano",
+    "me": "Para explorar",
+    "url": "https://www.peterhellerauthor.com/books",
+    "url_label": "peterhellerauthor.com · Books"
+   }
+  ]
+ },
+ "vision": {
+  "kicker": "Visión de BookBot · lectura propia, no son tus citas",
+  "titulo": "Qué dicen juntos tus 25 subrayados",
+  "resumen": [
+   "Una guía para sostenerse cuando el sistema se cae.",
+   "El dolor que «no puedes metabolizar» (nº 9) no se resuelve con palabras, sino con método: «Primero un pie, luego el otro» y «sé metódico. No tienes más que tiempo» (nº 1). El ritual de pescar (nº 3) convierte la atención en algo puro. Los refugios (sueños, creencias, la casa del prado) consuelan, pero también tejen «una red inexistente» de miedos (nº 21). Al final, la duplicidad: la vida está dentro de la muerte (nº 4) y la dicha es frágil (nº 25). Por eso «estamos despiertos» (nº 24) pesa más que esperar «la vida de verdad» (nº 19)."
+  ],
+  "conexiones_titulo": "Cómo conecta con tus intereses.",
+  "conexiones": [
+   [
+    "IA:",
+    "Hig registra «cosas que ya no tenían ninguna utilidad, salvo como baluarte contra el olvido» (nº 10). Es la pregunta de los datos y la memoria colectiva: ¿qué conservamos y para quién? Y la red sostenida por creencias (nº 21) describe bien los límites autoimpuestos ante una tecnología nueva."
+   ],
+   [
+    "Aprendizaje:",
+    "el ritual de la pesca (atención, esmero, disposición a arriesgar y paciencia) es una definición de la práctica deliberada. Soltar la «santurronería» como una serpiente su piel vieja (nº 13) es desaprender para moverse con soltura."
+   ],
+   [
+    "Formar a juniors:",
+    "el diálogo del nº 1 es un mentor de manual: no promete, pregunta y devuelve el control con un método. Los nº 5 y 6 añaden la otra cara: alianzas pragmáticas y límites claros."
+   ]
+  ],
+  "preguntas_titulo": "Preguntas para seguir leyendo",
+  "preguntas": [
+   "¿Qué «ritual de pesca» propio enseñarías a un junior para que su atención sea pura, pase lo que pase alrededor?",
+   "¿Qué «red inexistente» de creencias y miedos frena hoy la adopción de la IA en tu equipo?",
+   "¿Estás esperando a que empiece «la vida de verdad» en algún proyecto? ¿Qué cambiaría si ya fuera esta?"
+  ]
+ }
+}
