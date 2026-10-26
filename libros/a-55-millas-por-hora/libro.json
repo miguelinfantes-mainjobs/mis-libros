@@ -1,0 +1,251 @@
+{
+ "titulo": "A 55 millas por hora",
+ "subtitulo": "Contraluz, 2026 · 480 págs. · la huella hispana en EE. UU. · tus 14 subrayados, literales y agrupados por temas",
+ "autor": "Guillermo Fesser",
+ "etiquetas": [
+  "Storytelling",
+  "Simbiosis",
+  "Voces olvidadas",
+  "Prospectiva",
+  "Gestión de crisis",
+  "Biomímesis"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "1 oct. 2026",
+   "texto": "Contraluz Editorial · 22,95 €"
+  },
+  {
+   "valor": "480 págs.",
+   "texto": "ISBN 979-13-88337-00-0"
+  },
+  {
+   "valor": "eBook ✓",
+   "texto": "Apple Books España, 14,99 €"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "De un libro de historia hispana subrayas sobre todo modelos: cómo cooperan sistemas distintos (tres hermanas), cómo la naturaleza resuelve problemas (cebras), qué pasa cuando la política mira solo a corto plazo (Peral) y cómo se fabrica la atención (Hearst). Y por encima de todo, que una historia vale por la emoción que transmite."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "Contar la historia que se arrancó",
+  "nucleo_sub": "6 ramas · 14 subrayados · hilo: Emoción → Saber nativo → Ingenio → Visión → Crisis",
+  "hilo": [
+   [
+    "Emoción",
+    "contar lo que se siente"
+   ],
+   [
+    "Saber nativo",
+    "las tres hermanas"
+   ],
+   [
+    "Ingenio",
+    "técnica y naturaleza"
+   ],
+   [
+    "Visión",
+    "más allá de lo inmediato"
+   ],
+   [
+    "Crisis",
+    "derechos y recursos"
+   ]
+  ],
+  "favorita": 13,
+  "ramas": [
+   {
+    "key": "relato",
+    "title": "Contar con emoción",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     1,
+     13
+    ],
+    "label": "emocionar, no impresionar",
+    "pos": [
+     492,
+     250
+    ]
+   },
+   {
+    "key": "nativo",
+    "title": "Saber indígena",
+    "tag": "SIMBIOSIS",
+    "flow": 1,
+    "quotes": [
+     2,
+     3,
+     4
+    ],
+    "label": "tres hermanas, tapiz",
+    "pos": [
+     150,
+     110
+    ]
+   },
+   {
+    "key": "ingenio",
+    "title": "Ingenio y naturaleza",
+    "tag": "TÉCNICA",
+    "flow": 2,
+    "quotes": [
+     5,
+     12
+    ],
+    "label": "carabela, cebras",
+    "pos": [
+     492,
+     62
+    ]
+   },
+   {
+    "key": "vision",
+    "title": "Visión política",
+    "tag": "PROSPECTIVA",
+    "flow": 3,
+    "quotes": [
+     9
+    ],
+    "label": "el submarino olvidado",
+    "pos": [
+     834,
+     110
+    ]
+   },
+   {
+    "key": "crisis",
+    "title": "Crisis y derechos",
+    "tag": "INSTITUCIONES",
+    "flow": 4,
+    "quotes": [
+     6,
+     10,
+     11,
+     14
+    ],
+    "label": "unirse, resistir",
+    "pos": [
+     834,
+     400
+    ]
+   },
+   {
+    "key": "atencion",
+    "title": "Prensa y atención",
+    "tag": "MEDIOS",
+    "flow": null,
+    "quotes": [
+     7,
+     8
+    ],
+    "label": "el «continuará»",
+    "pos": [
+     150,
+     400
+    ]
+   }
+  ],
+  "pie": "14 citas literales de tus subrayados · Guillermo Fesser, A 55 millas por hora (Contraluz, 2026)"
+ },
+ "obras": {
+  "titulo": "Otras obras de Guillermo Fesser",
+  "nota": "No encontré ningún libro de Fesser titulado «Cuerpos especiales» en su bibliografía (agencia Balcells, Wikipedia, BNE); con Juan Luis Cano (Gomaespuma) firmó libros de humor como Grandes disgustos de la historia de España.",
+  "items": [
+   {
+    "cover": "obras/fesser-marcelo.jpg",
+    "title": "Marcelo",
+    "orig": "Novela · 2022",
+    "line": "El barman ecuatoriano del Oyster Bar de Grand Central: un homenaje a los emigrantes hispanos en EE. UU.",
+    "es": "Contraluz, 2022 · 528 págs.",
+    "me": "Sin leer",
+    "url": "https://contraluzeditorial.es/libro/contraluz/marcelo-guillermo-fesser-9788418945267/",
+    "url_label": "contraluzeditorial.es · Marcelo"
+   },
+   {
+    "title": "A cien millas de Manhattan",
+    "orig": "Crónica · 2008",
+    "line": "La vida en Rhinebeck, junto al Hudson: héroes anónimos de una América desconocida.",
+    "es": "Aguilar 2008 · Penguin bolsillo 2015",
+    "me": "Sin leer",
+    "url": "https://www.casadellibro.com/libro-a-cien-millas-de-manhattan/9788490625972/2572110",
+    "url_label": "casadellibro.com · A cien millas de Manhattan"
+   },
+   {
+    "title": "Cuando Dios aprieta, ahoga pero bien",
+    "orig": "Memorias de una asistenta · 1998",
+    "line": "La vida de Cándida, la asistenta de la familia Fesser, que llegó al cine en 2006. Es la «señora que limpia casas» de tu subrayado nº 13.",
+    "es": "Temas de Hoy, 1999 · Booket",
+    "me": "Sin leer",
+    "url": "https://es.wikipedia.org/wiki/Guillermo_Fesser",
+    "url_label": "es.wikipedia.org · Guillermo Fesser"
+   },
+   {
+    "title": "Bibliografía completa (con Gomaespuma)",
+    "orig": "Novela, humor, infantil",
+    "line": "Incluye Grandes disgustos de la historia de España (con Juan Luis Cano), Mi amigo invisible (2018) y Conoce a Bernardo de Gálvez (2016).",
+    "es": "Varias editoriales",
+    "me": "Para explorar",
+    "url": "https://www.agenciabalcells.com/autores/autor/guillermo-fesser/",
+    "url_label": "agenciabalcells.com · Guillermo Fesser"
+   }
+  ]
+ },
+ "vision": {
+  "kicker": "Visión de BookBot · lectura propia, no son tus citas",
+  "titulo": "Qué dicen juntos tus 14 subrayados",
+  "resumen": [
+   "Un libro de historia leído como un manual de sistemas.",
+   "No subrayas fechas. Subrayas mecanismos: cómo cooperan tres cultivos, cómo una tela deja escapar el alma, cómo una carabela combina dos tipos de vela, cómo se enfrían las cebras, cómo se engancha a un lector y cómo se empobrece un país cuando se queda sin instituciones. Y en el centro, la tesis del propio Fesser (nº 13): una historia no vale por lo que hace su protagonista, sino por lo que siente."
+  ],
+  "conexiones_titulo": "Cómo conecta con tus intereses.",
+  "conexiones": [
+   [
+    "Storytelling y emoción:",
+    "«emocionar, no impresionar» (nº 13) y el «picos horrorosos» de Sonrisas y lágrimas (nº 1) sirven de guía para tu curso «Más allá del chat» y para RTVE. La emoción es el contenido, no un adorno."
+   ],
+   [
+    "Simbiosis: las tres hermanas como modelo de equipo y de IA.",
+    "Cada una aporta lo que a las otras les falta: estructura (maíz), nutriente (frijol) y protección (calabaza). Es una buena metáfora de la colaboración entre humanos y modelos, o entre agentes: lo que importa no es el mejor componente, sino el reparto de funciones."
+   ],
+   [
+    "Saber indígena y voces al margen:",
+    "el weaving pathway que hoy se toma por un «defecto» (nº 4) es justo lo que defiendes al diseñar futuros. Lo que no entendemos no es un error, es otro sistema de valores."
+   ],
+   [
+    "Cortoplacismo frente a prospectiva:",
+    "el submarino de Peral (nº 9) es un caso de libro para Tiempo de futuros. España tenía el futuro construido en Cádiz y la política no miró «más allá de lo inmediato»."
+   ],
+   [
+    "Economía de la atención:",
+    "la running story de Hearst (nº 7) es el antepasado del feed y del cliffhanger de las plataformas, y el nº 8 recuerda su precio: «el poeta de la mentira»."
+   ],
+   [
+    "Derechos, crisis y recursos:",
+    "perder instituciones empobrece (nº 10); la mente del chef, entrenada en emergencias (nº 11), es un modelo de gestión de crisis; y «estar sin blanca» (nº 14) muestra cómo la economía se queda en el idioma."
+   ],
+   [
+    "Biomímesis:",
+    "las rayas de la cebra (nº 12) y la carabela de Dias (nº 5) cuentan lo mismo: el mejor diseño combina principios opuestos, blanco y negro o vela cuadra y latina."
+   ]
+  ],
+  "preguntas_titulo": "Preguntas para seguir leyendo",
+  "preguntas": [
+   "¿Qué «tres hermanas» formaría un equipo humano + IA en tu trabajo? ¿Quién da soporte, quién nutre y quién protege?",
+   "¿Qué «submarino de Peral» tenemos hoy delante y estamos dejando pasar por mirar solo a corto plazo?",
+   "Si Hearst inventó el «continuará», ¿cómo se cuenta una historia que enganche sin convertirse en «el padre de la fábula»?"
+  ]
+ }
+}
