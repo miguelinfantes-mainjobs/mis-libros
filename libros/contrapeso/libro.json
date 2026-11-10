@@ -1,0 +1,217 @@
+{
+ "titulo": "Contrapeso",
+ "subtitulo": "Minotauro Asiático, 17 jun 2026 · trad. Paola Díez Cidoncha · 208 págs · papel PVP 20,95 € · ebook Apple Books ES 10,99 € · tus 10 subrayados, literales y agrupados",
+ "autor": "Djuna",
+ "etiquetas": [
+  "IA",
+  "Formar a juniors",
+  "Red",
+  "Intuición",
+  "Cuerpo extendido",
+  "Aprendizaje"
+ ],
+ "portada": "portada.jpg",
+ "datos": [],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "Subrayas la novela como un manual de mente extendida: el worm, la capa de datos que aconseja, el 10 % que la IA no alcanza, y tu propia idea —un libro de decisiones con rutas propias— nacida de un programa que predice caminos."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "La mente extendida",
+  "nucleo_sub": "6 ramas · 10 subrayados · hilo: Rutas → Worm → Ángel → Ascensor → 10 %",
+  "hilo": [
+   [
+    "Las rutas",
+    "la IA predice"
+   ],
+   [
+    "El worm",
+    "mente en la red"
+   ],
+   [
+    "El ángel",
+    "capa de datos"
+   ],
+   [
+    "El ascensor",
+    "objeto de amor"
+   ],
+   [
+    "El 10 %",
+    "lo que la IA no ve"
+   ]
+  ],
+  "favorita": 10,
+  "archivo_notas": "notas.txt",
+  "ramas": [
+   {
+    "key": "red",
+    "title": "Red y dios",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     9,
+     10
+    ],
+    "label": "conocimiento colectivo",
+    "pos": [
+     492,
+     250
+    ]
+   },
+   {
+    "key": "rutas",
+    "title": "Las rutas",
+    "tag": "IA",
+    "flow": 1,
+    "quotes": [
+     1
+    ],
+    "label": "predecir el gesto",
+    "pos": [
+     150,
+     110
+    ]
+   },
+   {
+    "key": "worm",
+    "title": "El worm",
+    "tag": "IMPLANTE",
+    "flow": 2,
+    "quotes": [
+     2,
+     3,
+     7
+    ],
+    "label": "mente en la red",
+    "pos": [
+     492,
+     62
+    ]
+   },
+   {
+    "key": "angel",
+    "title": "El ángel",
+    "tag": "CONSCIENCIA",
+    "flow": 3,
+    "quotes": [
+     4,
+     5
+    ],
+    "label": "capa que aconseja",
+    "pos": [
+     834,
+     110
+    ]
+   },
+   {
+    "key": "ascensor",
+    "title": "El ascensor",
+    "tag": "DESEO",
+    "flow": 4,
+    "quotes": [
+     6
+    ],
+    "label": "idioma del amor",
+    "pos": [
+     834,
+     400
+    ]
+   },
+   {
+    "key": "diez",
+    "title": "El 10 %",
+    "tag": "INTUICIÓN",
+    "flow": 5,
+    "quotes": [
+     8
+    ],
+    "label": "lo que la IA no ve",
+    "pos": [
+     150,
+     400
+    ]
+   }
+  ],
+  "pie": "10 citas literales de tus subrayados · Djuna, Contrapeso (Minotauro, 2026; trad. Paola Díez Cidoncha) · orig. 평형추 / Counterweight, 2021"
+ },
+ "obras": {
+  "titulo": "Otras obras de Djuna",
+  "nota": "En esta consulta (10 nov 2026) Contrapeso es la única edición en castellano que hemos podido verificar. Djuna tiene más obra en coreano e inglés; no atribuimos títulos españoles no confirmados.",
+  "items": [
+   {
+    "cover": "obras/00.jpg",
+    "title": "Contrapeso",
+    "orig": "평형추 / Counterweight · 2021",
+    "line": "Esta novela. Thriller cyberpunk: ascensor espacial, implantes worm y datos en órbita.",
+    "es": "Minotauro Asiático, 17 jun 2026 · trad. Paola Díez Cidoncha · 208 págs",
+    "me": "Leído · esta hoja",
+    "url": "https://www.todostuslibros.com/libros/contrapeso_978-84-450-2190-3",
+    "url_label": "todostuslibros.com · Contrapeso"
+   },
+   {
+    "title": "Everything Good Dies Here",
+    "orig": "Relatos · EN (trad. Adrian Thieret)",
+    "line": "Cuentos del universo Linker y más allá. No hemos verificado una edición en castellano.",
+    "es": "Sin edición en castellano verificada",
+    "me": "Para explorar (EN)",
+    "url": "https://www.goodreads.com/author/show/19459107.Djuna",
+    "url_label": "Goodreads · Djuna",
+    "cover": ""
+   }
+  ]
+ },
+ "vision": {
+  "kicker": "Visión de BookBot · lectura propia, no son tus citas ni tus notas",
+  "titulo": "Qué dicen juntos tus 10 subrayados",
+  "resumen": [
+   [
+    "La mente se sale del cráneo y entra en la red.",
+    "El worm no guarda recuerdos «en la nube»: la mente del enfermo «estaba mucho más extendida por la red que la de una persona normal» (nº 2). Luego esa extensión se siente por dentro: los datos no se «instalan», se tejen «como una capa que envolvió mi consciencia» y permanecen cuando el biorrobot desaparece, «un ángel de la guarda que me aconsejaba y evitaba que cometiera errores» (nº 4). El miedo y el alivio llegan juntos. El nº 5 es el efecto sensorial de esa capa: la visión se amplía y el mundo se ralentiza. El fragmento «casi” legal» (nº 3) y la palabra suelta «worm» (nº 7) —así los copiaste— subrayan el implante como objeto técnico, no como metáfora blanda."
+   ],
+   [
+    "Amar una infraestructura, reservar un 10 % a lo humano.",
+    "El narrador ama «esos finos cables que conectaban la Tierra con el espacio» con el registro de Romeo y de Dante, «en el idioma del amor» (nº 6). La empresa quiere un técnico; él habla como quien desea un objeto. Frente a ese fetiche de la estructura, el contrapunto humano: hay quien, por experiencia, «sabía por intuición un diez por ciento de las incógnitas que la IA aún no puede comprender» (nº 8). La tecnología no flota sola: «existe en una fina y estrecha red de conocimiento colectivo» (nº 9). Y el salto teológico del nº 10 no es un capricho: desde el hacha de piedra y el fuego, «la humanidad ha buscado superarse a sí misma»; un hombre con hacha era un dios para quien no la tenía. Convertirse en dios, aquí, es la continuidad de ese trabajo."
+   ],
+   [
+    "Tu nota al nº 1 cierra el arco.",
+    "La IA de Asuntos Exteriores «muestra las posibles rutas que pueden tomar» a partir de gestos, no de rostros. Tú escribes: «I y si hacemos un libro de decisiones para que puedan seguir sus propias rutas». Es una idea de formación: no solo predecir caminos, sino ofrecer un artefacto —un libro de decisiones, un «elige tu propia aventura»— donde un junior recorra ramificaciones con agencia. La novela muestra una IA que anticipa; tu nota pregunta cómo devolverle al aprendiz la capacidad de elegir la ruta."
+   ]
+  ],
+  "conexiones_titulo": "Cómo conecta con tus intereses.",
+  "conexiones": [
+   [
+    "IA como capa y como ángel:",
+    "el nº 4 plantea el copiloto ideal y su riesgo: alivio de no errar, miedo de ya no ser solo tú. Es el imago de Una memoria llamada imperio , pero inyectado."
+   ],
+   [
+    "El 10 % humano:",
+    "el nº 8 da un criterio sobrio para formar y para diseñar sistemas: la intuición de quien conoce el terreno sigue cubriendo lo que el modelo no comprende."
+   ],
+   [
+    "Formar con rutas:",
+    "tu nota convierte la predicción (nº 1) en pedagogía ramificada. Un libro de decisiones entrena el juicio, no la obediencia a una sola vía."
+   ],
+   [
+    "Red colectiva y superación:",
+    "los nº 9–10 evitan el mito del genio solitario: la técnica es red, y «ser dios» es, en el fondo, ampliar el oficio humano —hacha, fuego, red— no reemplazarlo."
+   ]
+  ],
+  "preguntas_titulo": "Preguntas para seguir leyendo",
+  "preguntas": [
+   "Si un sistema te envuelve como «ángel de la guarda», ¿cómo sabes cuándo te está impidiendo el error y cuándo te está impidiendo ver?",
+   "¿Cuál es el 10 % que tus juniors deben seguir intuyendo, aunque la IA anticipen las rutas?",
+   "¿Cómo sería, en concreto, ese libro de decisiones? ¿Quién escribe las ramificaciones y quién puede salirse del mapa?",
+   "Cuando dices «superarse», ¿estás ampliando una red de conocimiento colectivo o fabricando un dios privado?"
+  ]
+ }
+}

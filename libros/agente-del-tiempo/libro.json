@@ -1,0 +1,233 @@
+{
+ "titulo": "Agente del tiempo",
+ "subtitulo": "Crononauta, 8 oct 2026 · trad. Pilar Ramírez Tello · 258 págs · papel 20 € y ebook 8 € · tus 14 subrayados, literales y agrupados",
+ "autor": "Brenda Peynado",
+ "etiquetas": [
+  "IA",
+  "Duelo",
+  "Tiempo",
+  "Aprendizaje",
+  "Memoria",
+  "Amor"
+ ],
+ "portada": "portada.png",
+ "datos": [],
+ "secciones": [
+  {
+   "titulo": "Lo que subrayas",
+   "puntos": [
+    "Pocos subrayados, pero un arco completo: el tiempo como ladrón y mercancía, el amor secreto que da miedo por valioso, el duelo que cartografía una ciudad, y una psique descrita como software. Te interesa cómo se fabrica, se roba y se pierde el tiempo —y qué heurística mueve a una conciencia, humana o máquina."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "El tiempo, el ladrón",
+  "nucleo_sub": "7 ramas · 14 subrayados · hilo: Ladrón → Valor → Mercancía → Duelo → Entropía",
+  "hilo": [
+   [
+    "El ladrón",
+    "caza y robo"
+   ],
+   [
+    "El valor",
+    "amor a puerta cerrada"
+   ],
+   [
+    "La mercancía",
+    "usar y tirar"
+   ],
+   [
+    "El duelo",
+    "soledad y fantasmas"
+   ],
+   [
+    "La entropía",
+    "nada es permanente"
+   ]
+  ],
+  "favorita": 1,
+  "ramas": [
+   {
+    "key": "ladron",
+    "title": "El ladrón",
+    "tag": "NÚCLEO",
+    "flow": null,
+    "quotes": [
+     1,
+     3
+    ],
+    "label": "sabueso y enemigo",
+    "pos": [
+     492,
+     250
+    ]
+   },
+   {
+    "key": "valor",
+    "title": "El valor",
+    "tag": "AMOR",
+    "flow": 1,
+    "quotes": [
+     2,
+     4
+    ],
+    "label": "lo que merece robarse",
+    "pos": [
+     150,
+     110
+    ]
+   },
+   {
+    "key": "mercancia",
+    "title": "La mercancía",
+    "tag": "CAPITAL",
+    "flow": 2,
+    "quotes": [
+     5,
+     7
+    ],
+    "label": "fabricar y tirar",
+    "pos": [
+     492,
+     62
+    ]
+   },
+   {
+    "key": "duelo",
+    "title": "El duelo",
+    "tag": "PÉRDIDA",
+    "flow": 3,
+    "quotes": [
+     6,
+     11
+    ],
+    "label": "globo de fantasmas",
+    "pos": [
+     834,
+     110
+    ]
+   },
+   {
+    "key": "entropia",
+    "title": "La entropía",
+    "tag": "ORDEN",
+    "flow": 4,
+    "quotes": [
+     8,
+     10,
+     14
+    ],
+    "label": "un parpadeo",
+    "pos": [
+     834,
+     400
+    ]
+   },
+   {
+    "key": "psique",
+    "title": "La heurística",
+    "tag": "IA / MENTE",
+    "flow": 5,
+    "quotes": [
+     9
+    ],
+    "label": "hambre de la psique",
+    "pos": [
+     150,
+     250
+    ]
+   },
+   {
+    "key": "zemi",
+    "title": "Zemí y vacío",
+    "tag": "MITO",
+    "flow": null,
+    "quotes": [
+     12,
+     13
+    ],
+    "label": "Delatonio y Divya",
+    "pos": [
+     150,
+     400
+    ]
+   }
+  ],
+  "pie": "14 citas literales de tus subrayados · Brenda Peynado, Agente del tiempo (Crononauta, 2026; trad. Pilar Ramírez Tello) · orig. Time's Agent, 2024"
+ },
+ "obras": {
+  "titulo": "Otras obras de Brenda Peynado",
+  "nota": "En esta consulta (10 nov 2026) la única edición en castellano que hemos podido verificar es Agente del tiempo (Crononauta). No localizamos una edición española de The Rock Eaters ni de un título titulado «La lotería de los cielos».",
+  "items": [
+   {
+    "title": "Agente del tiempo",
+    "orig": "Time's Agent · 2024",
+    "line": "Esta novela. Premio Philip K. Dick 2025. Mundos de bolsillo, duelo y República Dominicana.",
+    "es": "Crononauta, 8 oct 2026 · trad. Pilar Ramírez Tello · 258 págs · 20 € / ebook 8 €",
+    "me": "Leído · esta hoja",
+    "url": "https://shop.crononauta.es/products/agente-del-tiempo",
+    "url_label": "shop.crononauta.es · Agente del tiempo",
+    "cover": ""
+   },
+   {
+    "title": "The Rock Eaters",
+    "orig": "Relatos · 2021",
+    "line": "Su colección de cuentos en inglés (Penguin). No hemos verificado una edición en castellano.",
+    "es": "Sin edición en castellano verificada",
+    "me": "Para explorar (EN)",
+    "url": "https://brendapeynado.com/books/",
+    "url_label": "brendapeynado.com · Books",
+    "cover": ""
+   }
+  ]
+ },
+ "vision": {
+  "kicker": "Visión de BookBot · lectura propia, no son tus citas",
+  "titulo": "Qué dicen juntos tus 14 subrayados",
+  "resumen": [
+   [
+    "El tiempo es a la vez mercancía y ladrón.",
+    "Empiezas por la caza: «un sabueso que te da caza. El tiempo, mi enemigo. El tiempo, el ladrón» (nº 1), que «intenta arrebatártelo todo a manos llenas» (nº 3). Poco después el mismo tiempo «era un producto, tan fácil de fabricar como de tirar a la basura» (nº 5). En la novela —mundos de bolsillo colonizados por corporaciones— esas dos caras no se contradicen: se fabrica tiempo para venderlo, y al venderlo se lo roba a quien ama. «Había muchas formas de cobrar por tu desesperación» (nº 7) cierra el trato."
+   ],
+   [
+    "Lo que merece ser robado.",
+    "El tedio busca «algo nuevo» (nº 2), pero el valor asusta: «¿no sabes lo peligroso que es tener algo de valor?» (nº 4). Esa frase no queda en abstracto: Raquel la asocia al primer beso con Marlena, «nuestro amor a puerta cerrada». El secreto queer no es un adorno; es el prototipo de todo lo que el tiempo (y el instituto, y las empresas) pueden arrebatar. El duelo lo confirma: cartografía «con mi tristeza aquella ciudad transformada» (nº 6) y se describe como «un globo inflado con los fantasmas de todo lo que era mío… llena y hueca a la vez» (nº 11; el punto inicial es tu copia literal)."
+   ],
+   [
+    "Entropía, psique y mito.",
+    "Un parpadeo basta para que «la entropía del tiempo ha consumido cualquier orden» (nº 8); «nada podía ser permanente» (nº 10). En medio, el subrayado más técnico (nº 9): para prever lo que alguien verá o no verá hay que conocer el hardware, la pila del lenguaje y, sobre todo, «la heurística de la psique. Su hambre». Todo ser, «sea máquina o humano, tiene un imperativo». Es tu metáfora de la IA escrita en la novela: sin objetivo no hay acción mejor que otra; el hambre decide qué se oculta y qué «siempre merecerá la pena» descubrir. El zemí de Maquetaurie Guayaba —señor taíno de los muertos y de la tierra de los ausentes— «ensancha su sonrisa» (nº 12) como guardia de ese umbral. Y el contraste Delatonio/Divya (nº 13) parte el deseo en dos: quien nunca llena el vacío que le abrieron «a bocados» y quien ya poseía «todos los universos». El cierre (nº 14) invierte la tesis: en una escala en la que pareces una estatua, «sin el tiempo, todo es bello», porque el aliento ahogado se desconecta de su consecuencia."
+   ]
+  ],
+  "conexiones_titulo": "Cómo conecta con tus intereses.",
+  "conexiones": [
+   [
+    "IA y heurística:",
+    "el nº 9 es casi un enunciado de alineamiento: para modelar una conciencia hay que conocer su hambre, no solo su código. Lo que «les permitiría no ver algo» es sesgo, atención y diseño de lo invisible."
+   ],
+   [
+    "Tiempo como recurso:",
+    "fabricar tiempo y tirarlo (nº 5) habla de productividad, de atención y de lo que las herramientas nos roban mientras prometen darnos más horas."
+   ],
+   [
+    "Duelo y memoria:",
+    "el globo de fantasmas (nº 11) y la ciudad cartografiada con tristeza (nº 6) dialogan con tus hojas de La constelación del Perro : la pérdida que no se metaboliza y sigue ocupando el cuerpo."
+   ],
+   [
+    "Valor y secreto:",
+    "tener algo que merece la pena (nº 4) es también el riesgo de cuidar un proyecto, un vínculo o un junior: lo valioso es lo que se puede perder."
+   ]
+  ],
+  "preguntas_titulo": "Preguntas para seguir leyendo",
+  "preguntas": [
+   "Si «todo ser, sea máquina o humano, tiene un imperativo», ¿cuál es el hambre que estás diseñando —o dejando sin diseñar— en las IA con las que trabajas?",
+   "¿Qué estás fabricando como si el tiempo fuera un producto de usar y tirar? ¿Qué te está robando a manos llenas?",
+   "¿Qué guardas «a puerta cerrada», como aquel primer beso, porque tiene tanto valor que da miedo?",
+   "Sin el tiempo, «todo es bello» porque no hay consecuencia: ¿en qué escala quieres que cuenten tus actos?"
+  ]
+ }
+}
