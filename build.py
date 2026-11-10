@@ -35,19 +35,20 @@ def build():
         s = b.get("subrayados")
         if s:
             cs = citas(d/s["archivo_citas"]); esperadas[d.name] = cs
-            hilo = [h[0] for h in s["hilo"]]
+            hilo = [h[0] for h in s.get("hilo") or []]
             ns_ = citas(d/s["archivo_notas"]) if s.get("archivo_notas") else {}; esperadas_notas[d.name] = ns_
             L_ = lambda q: q if isinstance(q, list) else [q]
-            fv = lambda q: s["favorita"] in L_(q)
+            fav_n = s.get("favorita")
+            fv = lambda q: fav_n in L_(q) if fav_n else False
             cuerpo = lambda q: " ".join(f'<span class="frag">{E(cs[k])}</span>' for k in L_(q)) + "".join(f'<span class="tunota"><b>✎ Tu nota</b>{E(ns_[k])}</span>' for k in L_(q) if k in ns_)
             numq = lambda q: "+".join(map(str, L_(q)))
             for r in s["ramas"]:
                 qs = [nodo(f'<span class="cita{" fav" if fv(q) else ""}">{"★ " if fv(q) else ""}{cuerpo(q)}</span>', []) for q in r["quotes"]]
-                tag = f'<small>{E(r["tag"])}</small>'
+                tag = f'<small>{E(r["tag"])}</small>' if r.get("tag") else ""
                 ramas.append(nodo(f'{E(r["title"])} {tag}', qs, "rama"+(" nucleo" if r["flow"] is None else "")))
             centro = f'{E(s["nucleo"])}'
-            hilo_html = '<div class="hilo">' + '<span class="fl">→</span>'.join(f'<span class="paso"><b>{i+1}</b>{E(h[0])}<small>{E(h[1])}</small></span>' for i,h in enumerate(s["hilo"])) + '</div>'
-            fav = f'<div class="favq"><div class="lab">★ Tu favorita</div><q>{E(cs[s["favorita"]])}</q></div>'
+            hilo_html = ('<div class="hilo">' + '<span class="fl">→</span>'.join(f'<span class="paso"><b>{i+1}</b>{E(h[0])}<small>{E(h[1])}</small></span>' for i,h in enumerate(s["hilo"])) + '</div>') if s.get("hilo") else ""
+            fav = f'<div class="favq"><div class="lab">★ Tu favorita</div><q>{E(cs[fav_n])}</q></div>' if fav_n else ""
             tarjetas = hilo_html + fav + "".join(f'<section class="sec"><h2>{E(r["title"])} <small>{E(r["tag"])}</small></h2><div class="cols">' + "".join(f'<blockquote class="q{" fav" if fv(q) else ""}"><span class="num">{numq(q)}</span>{cuerpo(q)}</blockquote>' for q in r["quotes"]) + '</div></section>' for r in s["ramas"])
         else:
             centro = E(b["titulo"]); hilo_html = ""

@@ -1,0 +1,176 @@
+{
+ "titulo": "Disolución",
+ "subtitulo": "Minotauro, 22 jul 2026 · trad. Carlos Abreu Fetter · 384 págs. · tus 36 subrayados, literales (2 de las págs. 87-90; 34 del lote sin página)",
+ "autor": "Nicholas Binge",
+ "etiquetas": [
+  "Ciencia ficción"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "22 jul. 2026",
+   "texto": "Minotauro · rústica con solapas"
+  },
+  {
+   "valor": "384 págs.",
+   "texto": "ISBN 978-84-450-2194-1"
+  },
+  {
+   "valor": "trad. Carlos Abreu Fetter",
+   "texto": "colección Ciencia Ficción · 15 × 23 cm"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Nota sobre la cita 1 (y la 22)",
+   "puntos": [
+    "El estudio real de Ebbinghaus es de 1885, no de «principios del siglo XX». El error es del libro; la ficha del banco (B2197) usa la fecha histórica correcta.",
+    "La cita 22 es el mismo texto, palabra por palabra, que la cita 1: entró otra vez porque el lote de 34 la trae íntegra y se ha dejado también la cita 1, que ya estaba en esta página (págs. 87-90)."
+   ]
+  }
+ ],
+ "descargas": {},
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "Disolución",
+  "nucleo_sub": "9 ramas · 36 subrayados · sin favorita ni hilo (no hay hoja de BookBot)",
+  "hilo": [],
+  "ramas": [
+   {
+    "key": "olvido",
+    "title": "Repasar en la primera hora: contra la curva del olvido",
+    "tag": "B2197",
+    "flow": null,
+    "quotes": [
+     1
+    ]
+   },
+   {
+    "key": "recuerdo",
+    "title": "Evaluar con recuerdo libre y con reconocimiento",
+    "tag": "B2198",
+    "flow": null,
+    "quotes": [
+     2
+    ]
+   },
+   {
+    "key": "theuth",
+    "title": "La IA como Theuth: la apariencia de sabiduría sin su realidad",
+    "tag": "B2206",
+    "flow": null,
+    "quotes": [
+     14,
+     19,
+     20,
+     34
+    ]
+   },
+   {
+    "key": "intuicion",
+    "title": "La intuición es memoria implícita: diseñar cómo se accede a lo aprendido",
+    "tag": "B2207",
+    "flow": null,
+    "quotes": [
+     7,
+     23
+    ]
+   },
+   {
+    "key": "mnemosine",
+    "title": "Mnemósine, madre de las musas: la creatividad nace de lo que llevas en la cabeza",
+    "tag": "B2208",
+    "flow": null,
+    "quotes": [
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "key": "ventana",
+    "title": "La ventana que excluye: qué saberes ni siquiera entran en el programa",
+    "tag": "B2209",
+    "flow": null,
+    "quotes": [
+     13,
+     31,
+     32
+    ]
+   },
+   {
+    "key": "olvidar",
+    "title": "Olvidar también nos hace humanos: decidir qué merece fijarse",
+    "tag": "B2210",
+    "flow": null,
+    "quotes": [
+     8,
+     9,
+     26
+    ]
+   },
+   {
+    "key": "reafirma",
+    "title": "La memoria reafirma lo que ya sentimos: no tomar el recuerdo por evidencia",
+    "tag": "B2211",
+    "flow": null,
+    "quotes": [
+     15
+    ]
+   },
+   {
+    "key": "otras",
+    "title": "Otras citas",
+    "tag": "OTRAS",
+    "flow": null,
+    "quotes": [
+     3,
+     4,
+     5,
+     6,
+     10,
+     11,
+     12,
+     21,
+     22,
+     24,
+     25,
+     27,
+     28,
+     29,
+     30,
+     33,
+     35,
+     36
+    ]
+   }
+  ],
+  "pie": "36 citas literales de tus subrayados · Nicholas Binge, Disolución (Minotauro, 2026; trad. Carlos Abreu Fetter) · citas 1-2: págs. 87-90 (B2197 y B2198) · citas 3-36: lote de 34, sin página · la cita 22 reproduce el texto de la cita 1"
+ },
+ "obras": {
+  "titulo": "Esta edición y otras obras de Nicholas Binge",
+  "nota": "La ficha pública está en PlanetadeLibros. Minotauro es el sello editorial. En Mis libros también está Ascensión, la novela anterior de Binge.",
+  "items": [
+   {
+    "cover": "portada.jpg",
+    "title": "Disolución",
+    "orig": "Dissolution",
+    "line": "Un asombroso tecnothriller del autor de Ascensión.",
+    "es": "Minotauro, 22/07/2026 · trad. Carlos Abreu Fetter · 384 págs. · rústica con solapas",
+    "me": "Leído · esta hoja",
+    "url": "https://www.planetadelibros.com/libro-disolucion/432042",
+    "url_label": "planetadelibros.com · Disolución"
+   },
+   {
+    "cover": "obras/ascension.jpg",
+    "title": "Ascensión",
+    "orig": "Ascension · 2023",
+    "line": "Hay hoja de subrayados en Mis libros.",
+    "es": "Minotauro, 31/05/2023 · trad. Gemma Benavent · 352 págs.",
+    "me": "Leído · hay hoja",
+    "url": "../ascension/index.html",
+    "url_label": "Mis libros · Ascensión"
+   }
+  ]
+ }
+}
