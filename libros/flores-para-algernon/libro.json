@@ -1,0 +1,184 @@
+{
+ "titulo": "Flores para Algernon",
+ "subtitulo": "Alamut, 31 ene 2019 · trad. Domingo Santos · 264 págs. · tus 25 subrayados, literales (sin página)",
+ "autor": "Daniel Keyes",
+ "etiquetas": [
+  "Ciencia ficción"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "31 ene. 2019",
+   "texto": "Alamut · Serie Fantástica n.º 86 · cartoné"
+  },
+  {
+   "valor": "264 págs.",
+   "texto": "ISBN 978-84-9889-115-7"
+  },
+  {
+   "valor": "trad. Domingo Santos",
+   "texto": "traducción de 1974 · Pedro Domingo Mutiñó"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Nota sobre las citas cortadas",
+   "puntos": [
+    "Algunos subrayados están cortados en origen y se citan tal cual, sin completarlos: la 12 termina en «Otro», la 15 empieza en «doy cuenta», la 20 empieza sin el signo de apertura de interrogación y la 21 a mitad de frase. Ninguna cita tiene número de página."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "Flores para Algernon",
+  "nucleo_sub": "8 ramas · 25 subrayados · sin favorita ni hilo",
+  "hilo": [],
+  "ramas": [
+   {
+    "key": "equilibrio",
+    "title": "Falta de equilibrio: saber cosas no es aún comprender ni tolerar",
+    "tag": "B2212",
+    "flow": null,
+    "quotes": [
+     2,
+     10,
+     15
+    ]
+   },
+   {
+    "key": "barrera",
+    "title": "Al otro lado de la barrera intelectual: hablar y escribir para que te entiendan",
+    "tag": "B2213",
+    "flow": null,
+    "quotes": [
+     8
+    ]
+   },
+   {
+    "key": "afecto",
+    "title": "La inteligencia templada en el afecto: el saber que no cuida no vale gran cosa",
+    "tag": "B2214",
+    "flow": null,
+    "quotes": [
+     17,
+     19
+    ]
+   },
+   {
+    "key": "memoria",
+    "title": "Los recuerdos contaminan el presente: no dar la memoria por un registro fiel",
+    "tag": "B2215",
+    "flow": null,
+    "quotes": [
+     6,
+     12
+    ]
+   },
+   {
+    "key": "laberinto",
+    "title": "No soy solamente un ser, sino una manera de ser: el laberinto de los caminos elegidos",
+    "tag": "B2216",
+    "flow": null,
+    "quotes": [
+     16
+    ]
+   },
+   {
+    "key": "caverna",
+    "title": "¿Quién puede decir que mi luz vale más que tu oscuridad?: volver a bajar a la caverna",
+    "tag": "B2217",
+    "flow": null,
+    "quotes": [
+     14,
+     20,
+     24
+    ]
+   },
+   {
+    "key": "foso",
+    "title": "El foso que cava la inteligencia: qué queda de la persona",
+    "tag": "B2218",
+    "flow": null,
+    "quotes": [
+     7,
+     9
+    ]
+   },
+   {
+    "key": "otras",
+    "title": "Otras citas",
+    "tag": "OTRAS",
+    "flow": null,
+    "quotes": [
+     1,
+     3,
+     4,
+     5,
+     11,
+     13,
+     18,
+     21,
+     22,
+     23,
+     25
+    ]
+   }
+  ],
+  "pie": "25 citas literales de tus subrayados · Daniel Keyes, Flores para Algernon (Alamut, Serie Fantástica n.º 86, 2019; trad. Domingo Santos) · sin página · hay hoja de BookBot (PNG y PDF) y Visión de BookBot"
+ },
+ "vision": {
+  "kicker": "Visión de BookBot · lectura propia, no son tus citas",
+  "titulo": "Qué dicen juntos tus 25 subrayados",
+  "resumen": [
+   [
+    "Precioso, emotivo y disruptivo.",
+    "Así lo nombras tú, y los subrayados sostienen las tres dimensiones. Lo precioso está en esa «cúspide de una lucidez y una belleza» cuya existencia Charlie ignoraba (nº 18), y en la cornisa de Platón, donde se pregunta quién puede decir que su luz vale más que la oscuridad del otro (nº 20, 24). Lo emotivo, en la cólera que no se quiere soltar (nº 4), el alma en pena (nº 15), el foso con quienes quería (nº 7) y la necesidad de dar y recibir afecto, también el físico (nº 17, 25). Lo disruptivo no es solo la tesis: es el propio formato —los informes de progreso, cuya lengua cambia con la mente de Charlie—, la ética de experimentar con una persona como se experimentó con un ratón (nº 9, 10), y la pregunta de qué vale la inteligencia si no está templada en el afecto humano (nº 19)."
+   ],
+   [
+    "La mente adelanta al juicio.",
+    "El aviso llega pronto: «Tu crecimiento mental va a superar tu crecimiento emocional» (nº 2). Más adelante te lo devuelven como diagnóstico: sabes y ves, pero «aún no has alcanzado la comprensión o, mejor, la tolerancia» (nº 10). Tú mismo lo cierras: los problemas emocionales «no pueden ser resueltos como los problemas intelectuales» (nº 15). En medio, esa palabra suelta, «conturbado» (nº 11), como si el estado no necesitara una frase."
+   ],
+   [
+    "El foso y la barrera.",
+    "La inteligencia «ha cavado como un foso» entre Charlie y quienes quería (nº 7). Strauss le pide hablar y escribir «sencilla y claramente»: a veces el lenguaje es un obstáculo, y es irónico hallarse «al otro lado de la barrera intelectual» (nº 8). Al otro lado, los que prometían hacer luz no eran más que «hombres vulgares trabajando a ciegas» (nº 9), y la escuela sirve para aprender que «nada es como parece ser» (nº 5)."
+   ],
+   [
+    "Memoria, laberinto, caverna.",
+    "Una reminiscencia no garantiza lo ocurrido: pudo ser así, pudo parecerlo, pudo ser una invención (nº 6); los recuerdos «contaminan el presente» y el pasaje se corta en «Otro» (nº 12). Para saber quién es, Charlie mira el laberinto: no es solo un ser, sino «una manera de ser» (nº 16). Cierra Platón, desde la cornisa: los de la caverna dirán que «ha ascendido y ha vuelto a caer sin sus ojos» (nº 24)."
+   ]
+  ],
+  "conexiones_titulo": "Cómo conecta con tus intereses.",
+  "conexiones": [
+   [
+    "En formación e IA,",
+    "el junior —o el modelo— puede ganar capacidad más deprisa que criterio o afecto. Hablar claro (nº 8) es el antídoto a la barrera del experto. Una memoria que se reconstruye (nº 6) aconseja no tratar como hecho lo que un sistema, o un recuerdo propio, presenta como pasado. Y lo disruptivo del experimento —usar a alguien como se usó a Algernon— resuena con cualquier herramienta que acelera una mente sin preguntar qué queda de la persona."
+   ]
+  ],
+  "preguntas_titulo": "Preguntas para seguir leyendo",
+  "preguntas": [
+   "Cuando una herramienta o un junior gana capacidad de golpe, ¿qué espacio dejas para el juicio y el afecto, no solo para el output?",
+   "Si no puedes explicar lo que sabes «sencilla y claramente», ¿estás enseñando o estás al otro lado de la barrera?",
+   "Al «subir» de nivel —tú, un equipo, un modelo—, ¿cómo se vuelve a bajar sin perder los ojos, y sin despreciar la oscuridad de quien aún no ha salido?"
+  ]
+ },
+ "obras": {
+  "titulo": "Esta edición",
+  "nota": "La ficha pública está en Todostuslibros (catálogo CEGAL). Alamut es el sello editorial. Serie Fantástica n.º 86.",
+  "items": [
+   {
+    "cover": "portada.jpg",
+    "title": "Flores para Algernon",
+    "orig": "Flowers for Algernon",
+    "line": "Relato de 1959 y novela de 1966. Premio Nebula 1966.",
+    "es": "Alamut, 31/01/2019 · Serie Fantástica n.º 86 · trad. Domingo Santos (1974) · 264 págs. · cartoné",
+    "me": "Leído · esta hoja",
+    "url": "https://www.todostuslibros.com/libros/flores-para-algernon_978-84-9889-115-7",
+    "url_label": "todostuslibros.com · Flores para Algernon"
+   }
+  ]
+ }
+}
