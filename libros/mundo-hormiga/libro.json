@@ -1,0 +1,175 @@
+{
+ "titulo": "Mundo hormiga",
+ "subtitulo": "Barrett, 10 nov 2021 · trad. Ce Santiago · 944 págs. · tus 39 subrayados, literales (sin página)",
+ "autor": "Charlie Kaufman",
+ "etiquetas": [
+  "Memoria",
+  "Pérdida",
+  "Identidad",
+  "Coraje",
+  "Los invisibles"
+ ],
+ "portada": "portada.jpg",
+ "datos": [
+  {
+   "valor": "10 nov. 2021",
+   "texto": "Editorial Barrett · rústica / bolsillo · 210 × 140 mm"
+  },
+  {
+   "valor": "944 págs.",
+   "texto": "ISBN 978-84-18690-07-5"
+  },
+  {
+   "valor": "trad. Ce Santiago",
+   "texto": "cubierta de Isidro Ferrer · orig. Antkind (Random House, 7 jul 2020)"
+  }
+ ],
+ "secciones": [
+  {
+   "titulo": "Nota sobre las citas cortadas",
+   "puntos": [
+    "Algunos subrayados están cortados en origen (empiezan a mitad de frase o cortan al final) y se citan tal cual, sin completarlos. Por ejemplo: la 2 termina en «De», la 7 empieza sin el signo de apertura de interrogación, la 8 termina en «Desde», la 21 empieza en «toca inventario», la 24 empieza por un punto y las 36 y 37 quedan a medias. Ninguna cita tiene número de página (el lote sale del ebook de Apple Books ES)."
+   ]
+  }
+ ],
+ "descargas": {
+  "subrayados_png": "subrayados.png",
+  "subrayados_pdf": "subrayados.pdf"
+ },
+ "subrayados": {
+  "archivo_citas": "citas.txt",
+  "nucleo": "Mundo hormiga",
+  "nucleo_sub": "9 ramas · 39 subrayados · sin favorita ni hilo",
+  "hilo": [],
+  "ramas": [
+   {
+    "key": "memoria",
+    "title": "Memoria e identidad",
+    "tag": "Memoria · B2230",
+    "flow": null,
+    "quotes": [
+     4,
+     5,
+     25,
+     28,
+     29
+    ]
+   },
+   {
+    "key": "perdida",
+    "title": "Pérdida y duelo",
+    "tag": "Pérdida",
+    "flow": null,
+    "quotes": [
+     12,
+     13,
+     14,
+     15,
+     31
+    ]
+   },
+   {
+    "key": "coraje",
+    "title": "Hacer lo correcto y el coraje",
+    "tag": "Coraje · B2225",
+    "flow": null,
+    "quotes": [
+     21,
+     30,
+     39
+    ]
+   },
+   {
+    "key": "invisibles",
+    "title": "Los que no se ven",
+    "tag": "Invisibles · B2226",
+    "flow": null,
+    "quotes": [
+     22
+    ]
+   },
+   {
+    "key": "contexto",
+    "title": "La experiencia es el contexto",
+    "tag": "Contexto · B2227",
+    "flow": null,
+    "quotes": [
+     1,
+     19,
+     20,
+     38
+    ]
+   },
+   {
+    "key": "cultura",
+    "title": "El ego y el ecosistema de las ideas",
+    "tag": "Cultura · B2228 · B2229",
+    "flow": null,
+    "quotes": [
+     10,
+     16,
+     17,
+     23
+    ]
+   },
+   {
+    "key": "mirada",
+    "title": "Prejuicio y el otro",
+    "tag": "Mirada",
+    "flow": null,
+    "quotes": [
+     2,
+     6
+    ]
+   },
+   {
+    "key": "forma",
+    "title": "Mente, emoción y forma",
+    "tag": "Forma",
+    "flow": null,
+    "quotes": [
+     8,
+     9,
+     11,
+     32,
+     34,
+     37
+    ]
+   },
+   {
+    "key": "fragmentos",
+    "title": "Fragmentos y ecos",
+    "tag": "Fragmentos",
+    "flow": null,
+    "quotes": [
+     3,
+     7,
+     18,
+     24,
+     26,
+     27,
+     33,
+     35,
+     36
+    ]
+   }
+  ],
+  "pie": "39 citas literales de tus subrayados · Charlie Kaufman, Mundo hormiga (Editorial Barrett, 2021; trad. Ce Santiago) · sin página (ebook Apple Books ES) · hay hoja de BookBot (PNG y PDF) · sin favorita ni hilo"
+ },
+ "obras": {
+  "titulo": "Esta edición",
+  "nota": "La ficha pública está en Todostuslibros (catálogo CEGAL). Editorial Barrett. Los subrayados salen del ebook de Apple Books ES (15,99 €, id 1597716517, 1 de diciembre de 2021).",
+  "items": [
+   {
+    "cover": "portada.jpg",
+    "title": "Mundo hormiga",
+    "orig": "Antkind",
+    "line": "Primera novela de Charlie Kaufman.",
+    "es": "Editorial Barrett, 10/11/2021 · trad. Ce Santiago · 944 págs. · rústica / bolsillo · cubierta de Isidro Ferrer",
+    "me": "Leído · esta hoja",
+    "url": "https://www.todostuslibros.com/libros/mundo-hormiga_978-84-18690-07-5",
+    "url_label": "todostuslibros.com · Mundo hormiga"
+   }
+  ]
+ }
+}
