@@ -11,7 +11,20 @@
   "Amor"
  ],
  "portada": "portada.png",
- "datos": [],
+ "datos": [
+  {
+   "valor": "8 oct. 2026",
+   "texto": "Crononauta · rústica · papel 20 €"
+  },
+  {
+   "valor": "258 págs.",
+   "texto": "ISBN 978-84-129314-5-7"
+  },
+  {
+   "valor": "trad. Pilar Ramírez Tello",
+   "texto": "12,7 × 19 cm"
+  }
+ ],
  "secciones": [
   {
    "titulo": "Lo que subrayas",

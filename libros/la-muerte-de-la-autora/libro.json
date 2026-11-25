@@ -1,6 +1,6 @@
 {
  "titulo": "La muerte de la autora",
- "subtitulo": "Maeva, 2026 · trad. Milo Jordi Krmpotic · tus 17 subrayados, literales y agrupados por temas",
+ "subtitulo": "Maeva, 15 abr 2026 · trad. Milo Jordi Krmpotic · 488 págs. · tus 17 subrayados, literales y agrupados por temas",
  "autor": "Nnedi Okorafor",
  "etiquetas": [
   "Creatividad",
@@ -9,7 +9,20 @@
   "Propósito"
  ],
  "portada": "portada.jpg",
- "datos": [],
+ "datos": [
+  {
+   "valor": "15 abr. 2026",
+   "texto": "Maeva · rústica · 24,90 €"
+  },
+  {
+   "valor": "488 págs.",
+   "texto": "ISBN 979-13-87664-75-6"
+  },
+  {
+   "valor": "trad. Milo Jordi Krmpotic",
+   "texto": "colección Éxitos literarios · 15 × 23 cm"
+  }
+ ],
  "secciones": [
   {
    "titulo": "Lo que subrayas",
