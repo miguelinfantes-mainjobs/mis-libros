@@ -1,6 +1,6 @@
 {
  "titulo": "La parábola de los talentos",
- "subtitulo": "Capitán Swing · Semilla Terrestre, libro 2 · tus 41 subrayados, literales y agrupados por temas",
+ "subtitulo": "Capitán Swing, 2021 · trad. Silvia Moreno Parrado · 440 págs. · Semilla Terrestre, libro 2 · tus 41 subrayados, literales y agrupados por temas",
  "autor": "Octavia E. Butler",
  "etiquetas": [
   "Educación",
@@ -9,7 +9,20 @@
   "Propósito a largo plazo"
  ],
  "portada": "portada.jpg",
- "datos": [],
+ "datos": [
+  {
+   "valor": "2021",
+   "texto": "Capitán Swing · trad. Silvia Moreno Parrado"
+  },
+  {
+   "valor": "440 págs.",
+   "texto": "ISBN 978-84-123902-5-4"
+  },
+  {
+   "valor": "rústica con solapas",
+   "texto": "14 × 22 cm"
+  }
+ ],
  "secciones": [
   {
    "titulo": "Lo que subrayas",

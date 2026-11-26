@@ -1,6 +1,6 @@
 {
  "titulo": "La parábola del sembrador",
- "subtitulo": "Capitán Swing, 2021 · Semilla Terrestre, libro 1 · tus subrayados, literales y agrupados por temas",
+ "subtitulo": "Capitán Swing, 2021 · trad. Silvia Moreno Parrado · 352 págs. · Semilla Terrestre, libro 1 · tus 24 subrayados, literales y agrupados por temas",
  "autor": "Octavia E. Butler",
  "etiquetas": [
   "Cambio",
@@ -10,7 +10,20 @@
   "Comunidad"
  ],
  "portada": "portada.jpg",
- "datos": [],
+ "datos": [
+  {
+   "valor": "2021",
+   "texto": "Capitán Swing · trad. Silvia Moreno Parrado"
+  },
+  {
+   "valor": "352 págs.",
+   "texto": "ISBN 978-84-122817-8-1"
+  },
+  {
+   "valor": "rústica con solapas",
+   "texto": "14 × 22 cm"
+  }
+ ],
  "secciones": [
   {
    "titulo": "Lo que subrayas",
